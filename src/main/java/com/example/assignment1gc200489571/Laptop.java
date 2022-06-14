@@ -1,5 +1,9 @@
 package com.example.assignment1gc200489571;
 
+import java.text.NumberFormat;
+import java.util.Currency;
+import java.util.Locale;
+
 public class Laptop {
     /**
      * Create instance variables of our model class
@@ -82,6 +86,12 @@ public class Laptop {
 
     public double getPrice() {
         return price;
+    }
+    public String getPriceString()
+    {
+        Locale country = new Locale("en","IN");
+        Currency dollars = Currency.getInstance(country);
+        return NumberFormat.getCurrencyInstance(country).format(price);
     }
 
     /**

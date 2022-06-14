@@ -1,12 +1,14 @@
 package com.example.assignment1gc200489571;
 
+import javafx.scene.chart.XYChart;
+
 import java.sql.*;
 import java.util.ArrayList;
+import java.util.Collection;
 
 public class DBUtility {
     private static String user = DBCredentials.user;
     private static String password = DBCredentials.password;
-
     private static String connectURL = "jdbc:mysql://localhost:3306/assignment1";
 
     /**
@@ -16,7 +18,7 @@ public class DBUtility {
     {
         ArrayList<Laptop> laptops = new ArrayList<>();
 
-        String sql = "SELECT * FROM LaptopData";
+        String sql = "SELECT * FROM LaptopData;";
 
         try(
                 Connection conn = DriverManager.getConnection(connectURL,user,password);
@@ -45,4 +47,6 @@ public class DBUtility {
 
         return laptops;
     }
-}
+
+
+    }
