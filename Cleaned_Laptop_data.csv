@@ -1,4 +1,4 @@
-brand,model,processor_brand,processor_name,processor_gnrtn,ram_gb,ssd,hdd,os,os_bit,latest_price
+brand,model,processorBrand,processorName,generation,ram,ssd,hdd,os,osBit,price
 Lenovo,A6-9225,AMD,A6-9225 Processor,10th,4 GB GB,0 GB,1024 GB,Windows,64-bit,24990
 Lenovo,Ideapad,AMD,APU Dual,10th,4 GB GB,0 GB,512 GB,Windows,64-bit,19590
 Avita,PURA,AMD,APU Dual,10th,4 GB GB,128 GB,0 GB,Windows,64-bit,19990

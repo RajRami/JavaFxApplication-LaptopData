@@ -37,6 +37,52 @@ public class Laptop {
         setOsBit(osBit);
         setPrice(price);
     }
+    /**
+     * Creating Getters methods for all instance variables
+     */
+    public String getBrand() {
+        return brand;
+    }
+
+    public String getModel() {
+        return model;
+    }
+
+    public String getProcessorBrand() {
+        return processorBrand;
+    }
+
+    public String getProcessorName() {
+        return processorName;
+    }
+
+    public int getGeneration() {
+        return generation;
+    }
+
+    public int getRam() {
+        return ram;
+    }
+
+    public int getSsd() {
+        return ssd;
+    }
+
+    public int getHdd() {
+        return hdd;
+    }
+
+    public String getOs() {
+        return os;
+    }
+
+    public int getOsBit() {
+        return osBit;
+    }
+
+    public double getPrice() {
+        return price;
+    }
 
     /**
      * Creating set methods for all instance variables

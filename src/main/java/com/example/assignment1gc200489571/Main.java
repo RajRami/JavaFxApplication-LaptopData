@@ -6,11 +6,13 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 import java.io.IOException;
+import java.util.ArrayList;
 
 public class Main extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(Main.class.getResource("hello-view.fxml"));
+        ArrayList<Laptop> laptops = DBUtility.getLaptopsFromDB();
+        FXMLLoader fxmlLoader = new FXMLLoader(Main.class.getResource("chart-view.fxml"));
         Scene scene = new Scene(fxmlLoader.load());
         stage.setTitle("Laptop Store");
         stage.setScene(scene);
