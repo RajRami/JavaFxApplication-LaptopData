@@ -9,6 +9,7 @@
 }
 .table-view{
     -fx-font-size: 12pt;
+    -fx-background-color: transparent;
 }
 #label{
     -fx-font-size: 20pt;
