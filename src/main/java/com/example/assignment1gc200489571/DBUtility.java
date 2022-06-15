@@ -9,7 +9,9 @@ import java.util.Collection;
 public class DBUtility {
     private static String user = DBCredentials.user;
     private static String password = DBCredentials.password;
-    private static String connectURL = "jdbc:mysql://localhost:3306/assignment1";
+
+    //AWS connection
+    private static String connectURL = "jdbc:mysql://172.31.22.43:3306/Raj200489571";
 
     /**
      * It will return a list of all the laptop in the Database
@@ -48,5 +50,34 @@ public class DBUtility {
         return laptops;
     }
 
+    /**
+     * It will return a laptops by brand and their price
+     * @return
+     */
+    public static XYChart.Series<String, Double> getLaptopsByBrand() {
+        XYChart.Series<String, Double> series = new XYChart.Series<>();
+        series.setName("Brands");
 
+        String sql = "SELECT brand, price FROM LaptopData " +
+                "WHERE brand IN ('HP','Lenovo','Acer','ASUS','DELL','LG') " +
+                "ORDER BY brand;";
+
+        try(
+                Connection conn = DriverManager.getConnection(connectURL,user,password);
+                Statement statement = conn.createStatement();
+                ResultSet resultSet = statement.executeQuery(sql);
+        ) {
+            while (resultSet.next())
+            {
+                String brand = resultSet.getString("brand");
+                double price = resultSet.getDouble("price");
+
+                series.getData().add(new XYChart.Data<>(brand, price));
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+        return series;
     }
+}

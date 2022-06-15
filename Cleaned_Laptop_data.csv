@@ -1,897 +1,645 @@
 brand,model,processorBrand,processorName,generation,ram,ssd,hdd,os,osBit,price
-Lenovo,A6-9225,AMD,A6-9225 Processor,10th,4 GB GB,0 GB,1024 GB,Windows,64-bit,24990
-Lenovo,Ideapad,AMD,APU Dual,10th,4 GB GB,0 GB,512 GB,Windows,64-bit,19590
-Avita,PURA,AMD,APU Dual,10th,4 GB GB,128 GB,0 GB,Windows,64-bit,19990
-Avita,PURA,AMD,APU Dual,10th,4 GB GB,128 GB,0 GB,Windows,64-bit,21490
-Avita,PURA,AMD,APU Dual,10th,4 GB GB,256 GB,0 GB,Windows,64-bit,24990
-Avita,PURA,AMD,APU Dual,10th,8 GB GB,256 GB,0 GB,Windows,64-bit,24990
-HP,APU,AMD,APU Dual,10th,4 GB GB,0 GB,1024 GB,Windows,32-bit,20900
-Lenovo,APU,AMD,APU Dual,10th,4 GB GB,0 GB,1024 GB,Windows,64-bit,21896
-HP,Athlon,AMD,Athlon Dual,10th,32 GB GB,32 GB,0 GB,Windows,32-bit,26899
-acer,Aspire,AMD,Athlon Dual,10th,4 GB GB,256 GB,0 GB,Windows,64-bit,31990
-ASUS,ExpertBook,Intel,Core i3,10th,4 GB GB,0 GB,1024 GB,Windows,64-bit,34649
-Lenovo,Missing,Intel,Core i3,10th,4 GB GB,0 GB,1024 GB,Windows,64-bit,38999
-Lenovo,v15,Intel,Core i3,10th,4 GB GB,0 GB,1024 GB,Windows,64-bit,39999
-ASUS,ExpertBook,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,32-bit,69990
-ASUS,VivoBook,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,64-bit,26990
-ASUS,EeeBook,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,64-bit,22990
-ASUS,EeeBook,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,32-bit,21990
-ASUS,ExpertBook,Intel,Core i5,10th,8 GB GB,0 GB,1024 GB,Windows,32-bit,58799
-Lenovo,Missing,Intel,Core i5,10th,4 GB GB,0 GB,1024 GB,Windows,32-bit,49999
-acer,Aspire,AMD,Ryzen,10th,4 GB GB,0 GB,512 GB,Windows,32-bit,54990
-acer,Nitro,AMD,Ryzen 5,10th,4 GB GB,0 GB,512 GB,Windows,32-bit,59990
-acer,Nitro,AMD,Ryzen 5,10th,4 GB GB,0 GB,512 GB,Windows,32-bit,93700
-acer,Nitro,AMD,Ryzen 5,10th,4 GB GB,0 GB,512 GB,Windows,32-bit,72990
-Avita,Cosmos,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,64-bit,17490
-ASUS,EeeBook,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,64-bit,22990
-ASUS,ExpertBook,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,64-bit,35990
-HP,x360,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,56490
-HP,x360,Intel,Core i5,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,65390
-Lenovo,IdeaPad,Intel,Celeron Dual,Missing,4 GB GB,256 GB,0 GB,Windows,64-bit,31999
-HP,Celeron,Intel,Celeron Dual,Missing,8 GB GB,256 GB,0 GB,Windows,64-bit,32490
-Lenovo,IdeaPad,Intel,Celeron Dual,Missing,4 GB GB,256 GB,0 GB,Windows,64-bit,31799
-ASUS,VivoBook,Intel,Celeron Dual,Missing,4 GB GB,256 GB,0 GB,Windows,64-bit,29890
-ASUS,Celeron,Intel,Celeron Dual,Missing,4 GB GB,0 GB,1024 GB,Windows,64-bit,23990
-HP,15q,Intel,Core i3,7th,4 GB GB,0 GB,1024 GB,Windows,64-bit,32955
-HP,250-G6,Intel,Core i5,7th,4 GB GB,0 GB,1024 GB,Windows,32-bit,46200
-ASUS,Missing,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,64-bit,34429
-Lenovo,IdeaPad,Intel,Core i3,10th,8 GB GB,256 GB,0 GB,Windows,32-bit,37990
-ASUS,VivoBook,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,32-bit,35990
-ASUS,VivoBook,Intel,Core i3,10th,8 GB GB,256 GB,0 GB,Windows,64-bit,33980
-HP,Missing,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,39990
-DELL,Vostro,Intel,Core i3,10th,8 GB GB,256 GB,0 GB,Windows,64-bit,39490
-RedmiBook,15,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,32-bit,38990
-HP,Pavilion,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,53990
-acer,Aspire,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,38990
-realme,Book,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,46990
-ASUS,Missing,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,37990
-ASUS,VivoBook,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,37890
-Lenovo,IdeaPad,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,38990
-Lenovo,IdeaPad,Intel,Core i3,10th,8 GB GB,256 GB,0 GB,Windows,64-bit,37990
-DELL,Vostro,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,41990
-ASUS,VivoBook,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,45990
-Lenovo,IdeaPad,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,39990
-DELL,Inspiron,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,42490
-Infinix,INBook,Intel,Core i3,10th,8 GB GB,256 GB,0 GB,Windows,64-bit,32990
-DELL,Vostro,Intel,Core i3,10th,4 GB GB,256 GB,0 GB,Windows,64-bit,36990
-Lenovo,Ideapad,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,53990
-ASUS,VivoBook,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,36990
-Lenovo,IdeaPad,Intel,Core i3,10th,4 GB GB,256 GB,0 GB,Windows,64-bit,38940
-DELL,Inspiron,Intel,Core i3,10th,4 GB GB,256 GB,0 GB,Windows,64-bit,39490
-ASUS,VivoBook,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,45990
-Lenovo,Ideapad,Intel,Core i3,10th,8 GB GB,256 GB,0 GB,Windows,64-bit,39999
-DELL,Inspiron,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,42990
-DELL,Inspiron,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,49990
-DELL,Vostro,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,41490
-DELL,Inspiron,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,41990
-Lenovo,Ideapad,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,41990
-Infinix,INBook,Intel,Core i3,10th,8 GB GB,256 GB,0 GB,Windows,64-bit,32990
-ASUS,VivoBook,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,38490
-Lenovo,Missing,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,64-bit,38990
-Lenovo,ThinkPad,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,64-bit,44990
-Lenovo,IdeaPad,Intel,Core i3,10th,4 GB GB,256 GB,0 GB,Windows,64-bit,36490
-Lenovo,Missing,Intel,Core i3,10th,8 GB GB,256 GB,0 GB,Windows,32-bit,38970
-HP,Missing,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,64-bit,44900
-MSI,Missing,Intel,Core i3,10th,4 GB GB,256 GB,0 GB,Windows,64-bit,38990
-DELL,Vostro,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,64-bit,44427
-ASUS,VivoBook,Intel,Core i3,10th,4 GB GB,256 GB,0 GB,Windows,64-bit,35990
-Lenovo,Ideapad,Intel,Core i3,10th,4 GB GB,256 GB,0 GB,Windows,64-bit,40200
-Lenovo,Missing,Intel,Core i3,10th,4 GB GB,256 GB,0 GB,Windows,32-bit,40990
-DELL,Inspiron,Intel,Core i3,10th,4 GB GB,256 GB,0 GB,Windows,64-bit,42490
-realme,Book,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,64-bit,47999
-acer,Chromebook,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,32-bit,23990
-DELL,Missing,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,64-bit,71999
-ASUS,VivoBook,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,64-bit,39990
-Lenovo,IdeaPad,Intel,Core i3,10th,4 GB GB,256 GB,0 GB,Windows,64-bit,41998
-ASUS,Missing,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,32-bit,41990
-Lenovo,Ideapad,Intel,Core i3,10th,4 GB GB,256 GB,0 GB,Windows,64-bit,39999
-ASUS,Commercial,Intel,Core i3,10th,4 GB GB,256 GB,0 GB,Windows,32-bit,39990
-Lenovo,Ideapad,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,64-bit,39998
-HP,14s,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,64-bit,42490
-Lenovo,Missing,Intel,Core i3,10th,4 GB GB,256 GB,0 GB,Windows,32-bit,41990
-ASUS,Missing,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,32-bit,48490
-HP,Missing,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,64-bit,44376
-DELL,Missing,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,32-bit,43900
-DELL,INSPIRON,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,64-bit,46690
-Lenovo,Missing,Intel,Core i3,10th,4 GB GB,256 GB,0 GB,Windows,32-bit,40990
-DELL,Inspiron,Intel,Core i3,10th,4 GB GB,256 GB,0 GB,Windows,64-bit,39990
-Lenovo,V15,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,64-bit,43990
-ASUS,VivoBook,Intel,Core i3,11th,4 GB GB,256 GB,0 GB,Windows,64-bit,36990
-DELL,Missing,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,48500
-ASUS,VivoBook,Intel,Core i3,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,48990
-ASUS,Chromebook,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,32-bit,23490
-HP,Pavilion,Intel,Core i3,8th,4 GB GB,256 GB,0 GB,Windows,64-bit,54238
-ASUS,VivoBook,Intel,Core i3,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,37990
-HP,Missing,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,42990
-HP,Missing,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,42990
-ASUS,VivoBook,Intel,Core i3,10th,4 GB GB,512 GB,0 GB,Windows,64-bit,35990
-RedmiBook,15,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,32-bit,42990
-ASUS,VivoBook,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,42990
-ASUS,VivoBook,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,32-bit,51990
-ASUS,VivoBook,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,48990
-ASUS,VivoBook,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,42990
-Lenovo,Missing,Intel,Core i3,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,38990
-DELL,Inspiron,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,45990
-HP,Missing,Intel,Core i3,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,42490
-HP,Missing,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,43970
-ASUS,Missing,Intel,Core i3,10th,4 GB GB,512 GB,0 GB,Windows,64-bit,39990
-MSI,Missing,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,48990
-HP,Pavilion,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,54990
-MSI,Missing,Intel,Core i3,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,40990
-ASUS,VivoBook,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,41990
-Lenovo,IdeaPad,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,54990
-ASUS,VivoBook,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,44990
-HP,Missing,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,41250
-HP,Missing,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,44990
-ASUS,VivoBook,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,42990
-DELL,Missing,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,60790
-HP,Missing,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,45650
-DELL,Vostro,Intel,Core i3,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,41990
-DELL,Inspiron,Intel,Core i3,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,45490
-ASUS,VivoBook,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,44990
-Lenovo,IdeaPad,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,42990
-HP,15s,Intel,Core i3,11th,4 GB GB,512 GB,0 GB,Windows,64-bit,45490
-HP,Missing,Intel,Core i3,10th,4 GB GB,512 GB,0 GB,Windows,32-bit,38799
-HP,Pavilion,Intel,Core i3,11th,4 GB GB,512 GB,0 GB,Windows,64-bit,69267
-ASUS,VivoBook,Intel,Core i3,11th,4 GB GB,512 GB,0 GB,Windows,64-bit,51649
-HP,Missing,Intel,Core i3,11th,4 GB GB,512 GB,0 GB,Windows,64-bit,47990
-ASUS,VivoBook,Intel,Core i3,10th,4 GB GB,512 GB,0 GB,Windows,64-bit,40990
-ASUS,Missing,Intel,Core i3,10th,4 GB GB,512 GB,0 GB,Windows,64-bit,42990
-ASUS,VivoBook,Intel,Core i3,11th,4 GB GB,512 GB,0 GB,Windows,64-bit,44890
-ASUS,VivoBook,Intel,Core i3,10th,4 GB GB,512 GB,0 GB,Windows,64-bit,41490
-HP,15s,Intel,Core i3,11th,4 GB GB,512 GB,0 GB,Windows,32-bit,50990
-HP,Missing,Intel,Core i3,11th,4 GB GB,512 GB,0 GB,Windows,64-bit,48900
-ASUS,VivoBook,Intel,Core i3,10th,4 GB GB,512 GB,0 GB,Windows,64-bit,40990
-DELL,Vostro,Intel,Core i3,10th,4 GB GB,512 GB,0 GB,Windows,64-bit,41790
-Lenovo,Ideapad,Intel,Core i3,11th,4 GB GB,512 GB,0 GB,Windows,64-bit,57999
-DELL,Inspiron,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,45930
-HP,Pavilion,Intel,Core i3,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,55490
-ASUS,VivoBook,Intel,Core i3,10th,8 GB GB,0 GB,1024 GB,Windows,64-bit,32890
-Lenovo,IdeaPad,Intel,Core i3,10th,8 GB GB,0 GB,1024 GB,Windows,64-bit,35990
-DELL,Inspiron,Intel,Core i3,11th,8 GB GB,0 GB,1024 GB,Windows,64-bit,42490
-DELL,Vostro,Intel,Core i3,11th,8 GB GB,0 GB,1024 GB,Windows,64-bit,42190
-DELL,Vostro,Intel,Core i3,10th,8 GB GB,0 GB,1024 GB,Windows,64-bit,39490
-HP,15s,Intel,Core i3,11th,8 GB GB,0 GB,1024 GB,Windows,64-bit,43690
-ASUS,VivoBook,Intel,Core i3,10th,4 GB GB,0 GB,1024 GB,Windows,64-bit,35990
-DELL,3000,Intel,Core i3,11th,8 GB GB,0 GB,1024 GB,Windows,32-bit,43800
-Lenovo,Missing,Intel,Core i3,10th,8 GB GB,0 GB,1024 GB,Windows,32-bit,38990
-ASUS,VivoBook,Intel,Core i3,10th,4 GB GB,0 GB,1024 GB,Windows,64-bit,34990
-ASUS,VivoBook,Intel,Core i3,11th,8 GB GB,0 GB,1024 GB,Windows,64-bit,38900
-DELL,Inspiron,Intel,Core i3,10th,4 GB GB,0 GB,1024 GB,Windows,64-bit,39990
-DELL,INSPIRON,Intel,Core i3,10th,4 GB GB,0 GB,1024 GB,Windows,32-bit,40890
-Lenovo,Missing,Intel,Core i3,10th,4 GB GB,0 GB,1024 GB,Windows,64-bit,36990
-HP,15s,Intel,Core i3,11th,4 GB GB,0 GB,1024 GB,Windows,64-bit,39990
-HP,Missing,Intel,Core i3,11th,4 GB GB,0 GB,1024 GB,Windows,64-bit,41990
-DELL,Missing,Intel,Core i3,11th,4 GB GB,0 GB,1024 GB,Windows,32-bit,43970
-HP,Notebook,Intel,Core i3,11th,4 GB GB,0 GB,1024 GB,Windows,64-bit,39790
-ASUS,Missing,Intel,Core i3,10th,4 GB GB,0 GB,1024 GB,Windows,32-bit,35590
-HP,14s,Intel,Core i3,10th,4 GB GB,0 GB,1024 GB,Windows,64-bit,36490
-ASUS,VivoBook,Intel,Core i3,10th,4 GB GB,0 GB,1024 GB,Windows,64-bit,38990
-ASUS,Missing,Intel,Core i3,10th,4 GB GB,0 GB,1024 GB,Windows,32-bit,33990
-DELL,Inspiron,Intel,Core i3,10th,4 GB GB,0 GB,1024 GB,Windows,64-bit,43400
-ASUS,Chromebook,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,32-bit,24990
-HP,15s,Intel,Core i3,10th,4 GB GB,0 GB,1024 GB,Windows,64-bit,40750
-DELL,Inspiron,Intel,Core i3,10th,4 GB GB,0 GB,1024 GB,Windows,64-bit,43000
-ASUS,Vivo,Intel,Core i3,10th,4 GB GB,0 GB,1024 GB,Windows,64-bit,38000
-DELL,Inspiron,Intel,Core i3,11th,8 GB GB,0 GB,1024 GB,Windows,64-bit,37990
-HP,DA,Intel,Core i3,7th,8 GB GB,0 GB,1024 GB,Windows,64-bit,49279
-Lenovo,Missing,Intel,Core i3,10th,8 GB GB,0 GB,1024 GB,Windows,32-bit,38999
-ASUS,Missing,Intel,Core i3,11th,8 GB GB,0 GB,1024 GB,Windows,32-bit,41500
-acer,Missing,Intel,Core i3,11th,4 GB GB,0 GB,1024 GB,Windows,32-bit,36999
-DELL,Missing,Intel,Core i3,11th,8 GB GB,0 GB,1024 GB,Windows,32-bit,42900
-ASUS,Chromebook,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,32-bit,21490
-DELL,Insprion,Intel,Core i3,11th,8 GB GB,0 GB,1024 GB,Windows,32-bit,41480
-ASUS,VivoBook,Intel,Core i3,10th,8 GB GB,0 GB,1024 GB,Windows,64-bit,32990
-ASUS,VivoBook,Intel,Core i3,11th,8 GB GB,0 GB,1024 GB,Windows,64-bit,38680
-ASUS,Chromebook,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,32-bit,23990
-DELL,Missing,Intel,Core i3,10th,8 GB GB,0 GB,1024 GB,Windows,64-bit,40390
-ASUS,VivoBook,Intel,Core i3,10th,4 GB GB,0 GB,1024 GB,Windows,64-bit,33990
-ASUS,Chromebook,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,32-bit,20490
-DELL,Vostro,Intel,Core i3,10th,8 GB GB,256 GB,1024 GB,Windows,64-bit,41490
-DELL,Inspiron,Intel,Core i3,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,45490
-DELL,Inspiron,Intel,Core i3,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,44490
-ASUS,VivoBook,Intel,Core i3,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,41890
-DELL,Vostro,Intel,Core i3,11th,4 GB GB,256 GB,1024 GB,Windows,64-bit,42990
-acer,Travelmate,Intel,Core i3,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,40990
-DELL,Inspiron,Intel,Core i3,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,48990
-DELL,Vostro,Intel,Core i3,11th,4 GB GB,256 GB,1024 GB,Windows,64-bit,43590
-DELL,Inspiron,Intel,Core i3,10th,4 GB GB,256 GB,1024 GB,Windows,64-bit,44690
-ASUS,ExpertBook,Intel,Core i3,10th,4 GB GB,256 GB,1024 GB,Windows,64-bit,40990
-DELL,Vostro,Intel,Core i3,11th,4 GB GB,256 GB,1024 GB,Windows,64-bit,43990
-DELL,Vostro,Intel,Core i3,11th,4 GB GB,256 GB,1024 GB,Windows,64-bit,43590
-DELL,Vostro,Intel,Core i3,10th,4 GB GB,256 GB,1024 GB,Windows,64-bit,41390
-DELL,Vostro,Intel,Core i3,10th,4 GB GB,256 GB,1024 GB,Windows,64-bit,44290
-DELL,Inspiron,Intel,Core i3,11th,4 GB GB,256 GB,1024 GB,Windows,64-bit,48999
-DELL,Vostro,Intel,Core i3,11th,4 GB GB,256 GB,1024 GB,Windows,64-bit,39990
-DELL,Missing,Intel,Core i3,10th,8 GB GB,256 GB,1024 GB,Windows,64-bit,46390
-ASUS,Chromebook,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,64-bit,18990
-ASUS,Chromebook,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,32-bit,17990
-HP,14a,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,64-bit,26470
-HP,Chromebook,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,64-bit,27990
-Lenovo,Celeron,Intel,Celeron Dual,Missing,4 GB GB,0 GB,1024 GB,Windows,32-bit,29999
-Lenovo,IdeaPad,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,64-bit,25990
-Lenovo,IdeaPad,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,32-bit,16990
-Lenovo,IdeaPad,Intel,Celeron Dual,Missing,4 GB GB,0 GB,512 GB,Windows,32-bit,24990
-acer,Predator,Intel,Core,Missing,4 GB GB,0 GB,512 GB,Windows,32-bit,99990
-acer,Aspire,Intel,Core i5,Missing,8 GB GB,0 GB,512 GB,Windows,32-bit,50990
-acer,Spin,Intel,Core i5,Missing,8 GB GB,0 GB,512 GB,Windows,32-bit,119990
-acer,Swift,Intel,Core i5,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,94190
-ASUS,ROG,Intel,Core i5,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,106167
-DELL,Missing,Intel,Core i5,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,68090
-DELL,XPS,Intel,Core i5,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,139990
-HP,15s,Intel,Core i5,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,55990
-HP,Omen,Intel,Core i5,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,102551
-lenovo,Ideapad,Intel,Core i5,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,72990
-Lenovo,Ideapad,Intel,Core i5,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,46990
-MICROSOFT,Surface,Intel,Core i5,10th,8 GB GB,128 GB,0 GB,Windows,64-bit,100190
-Smartron,t.book,Intel,Core i5,7th,8 GB GB,128 GB,0 GB,Windows,64-bit,52990
-MICROSOFT,Surface,Intel,Core i5,8th,8 GB GB,128 GB,0 GB,Windows,64-bit,91999
-Smartron,t.book,Intel,Core i5,7th,4 GB GB,128 GB,0 GB,Windows,64-bit,52990
-HP,Pavilion,Intel,Core i5,8th,8 GB GB,128 GB,0 GB,Windows,64-bit,76012
-Lenovo,Ideapad,Intel,Core i5,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,49490
-lenovo,Yoga,Intel,Core i5,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,102990
-acer,Swift,Intel,Core i5,7th,8 GB GB,256 GB,0 GB,Windows,64-bit,86867
-LG,Gram,Intel,Core i5,10th,8 GB GB,256 GB,0 GB,Windows,64-bit,76990
-LG,Gram,Intel,Core i5,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,76990
-ASUS,VivoBook,Intel,Core i5,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,48990
-LG,Gram,Intel,Core i5,10th,8 GB GB,256 GB,0 GB,Windows,64-bit,62990
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,55990
-acer,Swift,Intel,Core i5,8th,8 GB GB,256 GB,0 GB,Windows,64-bit,81998
-LG,Gram,Intel,Core i5,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,76990
-HP,Spectre,Intel,Core i5,8th,8 GB GB,256 GB,0 GB,Windows,64-bit,136590
-acer,Swift,Intel,Core i5,8th,8 GB GB,256 GB,0 GB,Windows,64-bit,59490
-ASUS,VivoBook14,Intel,Core i5,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,49800
-Lenovo,Ideapad,Intel,Core i5,11th,8 GB GB,256 GB,0 GB,Windows,64-bit,61999
-HP,Missing,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,54990
-HP,Missing,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,53990
-Lenovo,Ideapad,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,52990
-HP,Pavilion,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,67990
-ASUS,TUF,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,57990
-Lenovo,Ideapad,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,62300
-realme,Book(Slim),Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,52990
-Lenovo,Missing,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,52990
-Lenovo,IdeaPad,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,51990
-Lenovo,IdeaPad,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,61990
-RedmiBook,Pro,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,32-bit,48990
-ASUS,VivoBook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,32-bit,63990
-Lenovo,ThinkPad,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,65990
-Nokia,PureBook,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,47990
-acer,Aspire,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,52990
-Lenovo,IdeaPad,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,49990
-ASUS,ASUS,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,71990
-ASUS,VivoBook,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,47990
-Nokia,PureBook,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,45990
-Lenovo,IdeaPad,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,32-bit,48490
-ASUS,ASUS,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,72990
-MSI,Katana,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,76990
-ASUS,TUF,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,89990
-MSI,GF63,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,59990
-ASUS,TUF,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,65990
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,71990
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,71890
-Lenovo,IdeaPad,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,64990
-ASUS,VivoBook,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,65990
-HP,Missing,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,55999
-ASUS,VivoBook,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,73490
-HP,Pavilion,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,74490
-HP,Pavilion,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,58340
-acer,Aspire,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,55999
-DELL,Inspiron,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,67990
-ASUS,VivoBook,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,59990
-ASUS,TUF,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,82990
-DELL,Vostro,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,64190
-DELL,Missing,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,70090
-realme,Book(Slim),Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,60999
-ASUS,Missing,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,49990
-MSI,Missing,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,55490
-HP,Spectre,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,97990
-ASUS,VivoBook,Intel,Core i5,9th,8 GB GB,512 GB,0 GB,Windows,64-bit,54990
-Lenovo,Thinkbook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,59990
-Lenovo,IdeaPad,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,53990
-HP,Pavilion,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,66999
-acer,Intel,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,60990
-ASUS,Missing,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,47990
-HP,Missing,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,32-bit,59999
-DELL,G15,Intel,Core i5,10th,16 GB GB,512 GB,0 GB,Windows,64-bit,79990
-ASUS,TUF,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,63990
-HP,Pavilion,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,63990
-ASUS,VivoBook,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,59990
-Lenovo,IdeaPad,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,55990
-ASUS,VivoBook,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,59990
-HP,Pavilion,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,63990
-DELL,Vostro,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,69490
-DELL,Inspiron,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,89390
-ASUS,ZenBook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,74990
-Lenovo,Thinkbook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,64990
-Lenovo,Legion,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,66490
-DELL,Inspiron,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,89702
-Lenovo,Ideapad,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,70990
-Infinix,INBook,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,42490
-ASUS,VivoBook,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,58990
-Lenovo,Ideapad,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,57500
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,79990
-MSI,Modern,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,56541
-ASUS,Missing,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,59990
-Lenovo,ThinkBook,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,64990
-DELL,Missing,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,61290
-Lenovo,Missing,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,54990
-Lenovo,ThinkBook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,59990
-ASUS,ASUS,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,32-bit,84990
-HP,Pavilion,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,72500
-Lenovo,IdeaPad,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,59990
-Lenovo,Yoga,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,87990
-HP,14s,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,57990
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,69490
-Lenovo,Thinkbook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,68990
-Lenovo,Missing,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,32-bit,77990
-ASUS,ZenBook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,105990
-MSI,Prestige,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,79990
-DELL,Vostro,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,55490
-Lenovo,IdeaPad,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,69990
-ASUS,Zenbook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,84990
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,59990
-DELL,XPS,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,111890
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,65990
-ASUS,Zenbook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,32-bit,72990
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,71090
-MSI,Katana,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,74990
-ASUS,ZenBook,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,79990
-MSI,Modern,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,55490
-DELL,Vostro,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,66490
-ASUS,VivoBook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,53400
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,74500
-DELL,XPS,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,114990
-DELL,Vostro,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,61990
-APPLE,MacBook,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Mac,64-bit,159990
-APPLE,MacBook,Intel,Core i5,8th,8 GB GB,512 GB,0 GB,Mac,64-bit,172090
-MSI,Sword,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,74990
-MSI,Modern,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,56490
-Lenovo,ThinkPad,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,147000
-Lenovo,Ideapad,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,55990
-HP,Pavilion,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,77990
-HP,Envy,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,106490
-Lenovo,IdeaPad,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,32-bit,70990
-Lenovo,ThinkPad,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,64990
-acer,Aspire,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,57990
-ASUS,TUF,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,64990
-MSI,Modern,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,54990
-Vaio,SE,Intel,Core i5,8th,8 GB GB,512 GB,0 GB,Windows,64-bit,62890
-HP,Spectre,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,111999
-Lenovo,Yoga,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,70798
-Lenovo,Legion,Intel,Core i5,9th,8 GB GB,512 GB,0 GB,Windows,64-bit,59990
-acer,ConceptD,Intel,Core i5,8th,8 GB GB,512 GB,0 GB,Windows,64-bit,99500
-HP,14s,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,55990
-ASUS,ZenBook,Intel,Core i5,8th,8 GB GB,512 GB,0 GB,Windows,64-bit,72990
-acer,Swift,Intel,Core i5,8th,8 GB GB,512 GB,0 GB,Windows,64-bit,64990
-ASUS,Missing,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,57990
-HP,HP,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,76990
-Lenovo,Ideapad,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,62998
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,77990
-HP,Spectre,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,114990
-DELL,DELL,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,65990
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,88990
-Lenovo,X390,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,113590
-Mi,Notebook,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,54990
-ASUS,VivoBook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,73990
-LG,Gram,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,86990
-HP,Missing,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,61000
-ASUS,ZenBook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,99990
-Lenovo,ThinkPad,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,67990
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,70799
-Lenovo,ThinkPad,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,65990
-ASUS,VivoBook,Intel,Core i5,8th,8 GB GB,512 GB,0 GB,Windows,64-bit,53690
-MSI,Modern,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,55990
-ASUS,VivoBook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,53190
-Lenovo,IdeaPad,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,32-bit,58999
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,71990
-HP,Missing,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,32-bit,82000
-ASUS,ZenBook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,84990
-Lenovo,Thinpad,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,89998
-ASUS,ZenBook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,99990
-ASUS,Zenbook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,84990
-Lenovo,IdeaPad,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,69899
-DELL,Inpiron,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,79990
-DELL,GAMING,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,76300
-Lenovo,Ideapad,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,55999
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,72900
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,73990
-ASUS,ZenBook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,84990
-DELL,Missing,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,32-bit,73519
-HP,Spectre,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,126000
-lenovo,Yoga,Intel,Core i5,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,171998
-ASUS,ASUS,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,88990
-HP,HP,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,114999
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,82990
-acer,Intel,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,109999
-Lenovo,Yoga,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,82990
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,79990
-ASUS,ZenBook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,114990
-HP,Spectre,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,129999
-MSI,GS,Intel,Core i5,8th,8 GB GB,512 GB,0 GB,Windows,32-bit,149990
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,71290
-DELL,Inspiron,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,79500
-DELL,Inspiron,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,82990
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,70980
-ASUS,ZenBook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,99990
-HP,430,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,32-bit,94000
-DELL,Missing,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,82990
-MSI,Prestige,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,79990
-ASUS,Pro,Intel,Core i5,8th,8 GB GB,512 GB,0 GB,Windows,64-bit,85990
-ASUS,ExpertBook,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,86990
-ASUS,ZenBook,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,105990
-ASUS,ExpertBook,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,84990
-Lenovo,Ideapad,Intel,Core i5,8th,8 GB GB,512 GB,0 GB,Windows,64-bit,59999
-Lenovo,Yoga,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,91999
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,78900
-ASUS,ExpertBook,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,132790
-Nokia,PureBook,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,55990
-Lenovo,IdeaPad,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,60990
-Avita,Liber,Intel,Core i5,7th,8 GB GB,512 GB,0 GB,Windows,64-bit,65556
-DELL,Inspiron,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,70190
-DELL,Missing,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,79590
-Avita,Liber,Intel,Core i5,7th,8 GB GB,512 GB,0 GB,Windows,64-bit,65556
-ASUS,TUF,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,76990
-Nokia,PureBook,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,52790
-Avita,Liber,Intel,Core i5,7th,8 GB GB,512 GB,0 GB,Windows,64-bit,65556
-Avita,Liber,Intel,Core i5,8th,8 GB GB,512 GB,0 GB,Windows,64-bit,44990
-ASUS,Intel,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,84990
-Lenovo,Ideapad,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,86999
-HP,Pavilion,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,78000
-Avita,Liber,Intel,Core i5,8th,8 GB GB,512 GB,0 GB,Windows,64-bit,73063
-Avita,Liber,Intel,Core i5,8th,8 GB GB,512 GB,0 GB,Windows,64-bit,73063
-HP,HP,Intel,Core i5,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,100990
-Lenovo,Ideapad,Intel,Core i5,8th,8 GB GB,512 GB,0 GB,Windows,64-bit,74990
-ASUS,ROG,Intel,Core i5,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,75990
-Lenovo,Missing,Intel,Core i5,11th,8 GB GB,512 GB,0 GB,Windows,32-bit,84086
-ASUS,ASUS,Intel,Core i5,11th,8 GB GB,1024 GB,0 GB,Windows,64-bit,75990
-ASUS,TUF,Intel,Core i5,11th,8 GB GB,1024 GB,0 GB,Windows,64-bit,77990
-ASUS,ROG,Intel,Core i5,10th,8 GB GB,1024 GB,0 GB,Windows,64-bit,77990
-APPLE,MacBook,Intel,Core i5,10th,16 GB GB,1024 GB,0 GB,Mac,64-bit,179990
-APPLE,MacBook,Intel,Core i5,10th,16 GB GB,1024 GB,0 GB,Mac,64-bit,179990
-ASUS,ROG,Intel,Core i5,10th,8 GB GB,1024 GB,0 GB,Windows,64-bit,82990
-ASUS,TUF,Intel,Core i5,11th,8 GB GB,1024 GB,0 GB,Windows,64-bit,87990
-ASUS,F17,Intel,Core i5,11th,8 GB GB,1024 GB,0 GB,Windows,64-bit,84500
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,1024 GB,0 GB,Windows,64-bit,74190
-Lenovo,ThinkBook,Intel,Core i5,11th,8 GB GB,1024 GB,0 GB,Windows,64-bit,64990
-Lenovo,ThinkPad,Intel,Core i5,10th,8 GB GB,512 GB,512 GB,Windows,64-bit,155411
-Lenovo,ThinkPad,Intel,Core i5,10th,8 GB GB,512 GB,512 GB,Windows,64-bit,125394
-acer,Aspire,Intel,Core i5,11th,8 GB GB,0 GB,1024 GB,Windows,64-bit,49990
-acer,Aspire,Intel,Core i5,11th,8 GB GB,0 GB,1024 GB,Windows,64-bit,46990
-DELL,Vostro,Intel,Core i5,11th,8 GB GB,0 GB,1024 GB,Windows,64-bit,48990
-acer,Aspire,Intel,Core i5,8th,8 GB GB,0 GB,1024 GB,Windows,64-bit,59999
-ASUS,VivoBook,Intel,Core i5,10th,8 GB GB,0 GB,1024 GB,Windows,64-bit,46990
-MSI,GF63,Intel,Core i5,10th,8 GB GB,0 GB,1024 GB,Windows,64-bit,52990
-Lenovo,Missing,Intel,Core i5,7th,8 GB GB,0 GB,1024 GB,Windows,32-bit,57999
-Lenovo,B50-70,Intel,Core i5,4th,8 GB GB,0 GB,1024 GB,Windows,64-bit,52490
-Lenovo,Ideapad,Intel,Core i5,8th,8 GB GB,0 GB,1024 GB,Windows,64-bit,56990
-acer,Aspire,Intel,Core i5,8th,8 GB GB,0 GB,1024 GB,Windows,64-bit,61990
-DELL,Missing,Intel,Core i5,11th,8 GB GB,0 GB,1024 GB,Windows,32-bit,58090
-ASUS,ExpertBook,Intel,Core i5,10th,8 GB GB,0 GB,1024 GB,Windows,64-bit,56990
-acer,Aspire,Intel,Core i5,8th,8 GB GB,0 GB,1024 GB,Windows,64-bit,61597
-ASUS,Pro,Intel,Core i5,8th,8 GB GB,0 GB,1024 GB,Windows,64-bit,81990
-ASUS,ExpertBook,Intel,Core i5,10th,8 GB GB,0 GB,1024 GB,Windows,64-bit,61249
-DELL,Missing,Intel,Core i5,11th,8 GB GB,0 GB,1024 GB,Windows,32-bit,58990
-ASUS,ExpertBook,Intel,Core i5,10th,8 GB GB,0 GB,1024 GB,Windows,64-bit,83990
-MSI,GE76,Intel,Core i5,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,291190
-MSI,GP65,Intel,Core i5,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,145990
-MSI,GP76,Intel,Core i5,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,179990
-HP,Pavilion,Intel,Core i5,8th,8 GB GB,0 GB,1024 GB,Windows,64-bit,64990
-HP,15q,Intel,Core i5,8th,8 GB GB,0 GB,1024 GB,Windows,64-bit,46790
-HP,Missing,Intel,Core i5,7th,4 GB GB,0 GB,1024 GB,Windows,64-bit,44599
-acer,Swift,Intel,Core i5,8th,8 GB GB,0 GB,1024 GB,Windows,64-bit,72964
-HP,250,Intel,Core i5,10th,8 GB GB,0 GB,1024 GB,Windows,32-bit,48790
-acer,Aspire,Intel,Core i5,10th,8 GB GB,0 GB,1024 GB,Windows,64-bit,56491
-ASUS,VivoBook,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,32-bit,50990
-ASUS,VivoBook,Intel,Core i5,10th,8 GB GB,256 GB,1024 GB,Windows,64-bit,55990
-acer,Aspire,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,57990
-ASUS,VivoBook,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,52990
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,57990
-acer,Aspire,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,56990
-acer,Travelmate,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,55490
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,62490
-ASUS,VivoBook,Intel,Core i5,11th,16 GB GB,256 GB,1024 GB,Windows,64-bit,64990
-Lenovo,Ideapad,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,59990
-ASUS,VivoBook,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,60190
-ASUS,VivoBook,Intel,Core i5,9th,8 GB GB,256 GB,1024 GB,Windows,64-bit,54490
-Lenovo,Legion,Intel,Core i5,9th,8 GB GB,256 GB,1024 GB,Windows,64-bit,60990
-DELL,Inspiron,Intel,Core i5,11th,4 GB GB,256 GB,1024 GB,Windows,64-bit,55790
-ASUS,VivoBook,Intel,Core i5,11th,16 GB GB,256 GB,1024 GB,Windows,64-bit,64990
-ASUS,Missing,Intel,Core i5,11th,16 GB GB,256 GB,1024 GB,Windows,64-bit,58990
-DELL,Vostro,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,54990
-HP,Pavilion,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,71990
-DELL,3511,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,69900
-Lenovo,Ideapad,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,65990
-ASUS,VivoBook,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,49990
-DELL,Vostro,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,58990
-Lenovo,IdeaPad,Intel,Core i5,10th,8 GB GB,256 GB,1024 GB,Windows,64-bit,74590
-ASUS,Missing,Intel,Core i5,10th,8 GB GB,256 GB,1024 GB,Windows,32-bit,58990
-ASUS,VivoBook,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,64990
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,66490
-DELL,G3,Intel,Core i5,10th,8 GB GB,256 GB,1024 GB,Windows,64-bit,77900
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,67490
-DELL,Vostro,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,61990
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,58990
-Lenovo,IdeaPad,Intel,Core i5,10th,8 GB GB,256 GB,1024 GB,Windows,64-bit,74999
-ASUS,VivoBook,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,68900
-DELL,Inspiron,Intel,Core i5,11th,8 GB GB,256 GB,1024 GB,Windows,64-bit,71695
-acer,Travelmate,Intel,Core i5,11th,16 GB GB,256 GB,1024 GB,Windows,64-bit,62490
-DELL,Inspiron,Intel,Core i5,8th,8 GB GB,0 GB,2048 GB,Windows,64-bit,62317
-MSI,GS66,Intel,Core i5,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,207290
-DELL,Inspiron,Intel,Core i7,8th,16 GB GB,256 GB,0 GB,Windows,64-bit,87990
-Avita,Liber,Intel,Core i7,8th,8 GB GB,256 GB,0 GB,Windows,64-bit,73990
-Avita,Liber,Intel,Core i7,8th,8 GB GB,256 GB,0 GB,Windows,64-bit,73990
-Avita,Liber,Intel,Core i7,8th,8 GB GB,256 GB,0 GB,Windows,64-bit,73990
-Avita,Liber,Intel,Core i7,8th,8 GB GB,256 GB,0 GB,Windows,64-bit,73990
-Avita,Liber,Intel,Core i7,8th,8 GB GB,256 GB,0 GB,Windows,64-bit,73990
-Avita,Liber,Intel,Core i7,8th,8 GB GB,256 GB,0 GB,Windows,64-bit,73990
-ASUS,VivoBook,Intel,Core i7,10th,16 GB GB,512 GB,0 GB,Windows,64-bit,57990
-ASUS,VivoBook,Intel,Core i7,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,61990
-MSI,GF63,Intel,Core i7,10th,16 GB GB,512 GB,0 GB,Windows,64-bit,79990
-Lenovo,IdeaPad,Intel,Core i7,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,68990
-Mi,Notebook,Intel,Core i7,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,59490
-Lenovo,IdeaPad,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,85990
-Lenovo,Legion,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,99990
-Infinix,X1,Intel,Core i7,10th,16 GB GB,512 GB,0 GB,Windows,64-bit,54990
-ASUS,VivoBook,Intel,Core i7,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,77990
-Lenovo,IdeaPad,Intel,Core i7,11th,8 GB GB,512 GB,0 GB,Windows,64-bit,79990
-HP,Pavilion,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,93190
-ASUS,ZenBook,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,94990
-Lenovo,Thinkbook,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,84990
-MSI,Missing,Intel,Core i7,10th,8 GB GB,512 GB,0 GB,Windows,64-bit,57990
-HP,Envy,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,102990
-DELL,Missing,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,99990
-ASUS,ASUS,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,94990
-HP,Envy,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,104000
-MSI,Missing,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,76990
-HP,Pavilion,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,90190
-Lenovo,Missing,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,32-bit,88488
-MSI,Prestige,Intel,Core i7,10th,16 GB GB,512 GB,0 GB,Windows,64-bit,109990
-MSI,Sword,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,86990
-MSI,Prestige,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,89990
-HP,Spectre,Intel,Core i7,10th,16 GB GB,512 GB,0 GB,Windows,64-bit,239759
-ASUS,VivoBook,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,78990
-DELL,XPS,Intel,Core i7,8th,16 GB GB,512 GB,0 GB,Windows,64-bit,121890
-ASUS,ZenBook,Intel,Core i7,8th,16 GB GB,512 GB,0 GB,Windows,64-bit,85990
-MSI,Katana,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,94990
-HP,Pavilion,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,92000
-HP,Spectre,Intel,Core i7,10th,16 GB GB,512 GB,0 GB,Windows,64-bit,162990
-DELL,XPS,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,135300
-MSI,Modern,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,64990
-Lenovo,ThinkPad,Intel,Core i7,10th,16 GB GB,512 GB,0 GB,Windows,64-bit,174527
-Lenovo,ThinkPad,Intel,Core i7,10th,16 GB GB,512 GB,0 GB,Windows,64-bit,162299
-DELL,Inspiron,Intel,Core i7,10th,16 GB GB,512 GB,0 GB,Windows,64-bit,109190
-HP,Pavilion,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,99999
-MSI,Prestige,Intel,Core i7,10th,16 GB GB,512 GB,0 GB,Windows,64-bit,104990
-ASUS,Missing,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,109990
-ASUS,ZenBook,Intel,Core i7,8th,16 GB GB,512 GB,0 GB,Windows,64-bit,99990
-Lenovo,Missing,Intel,Core i7,8th,16 GB GB,512 GB,0 GB,Windows,64-bit,244801
-ASUS,ZenBook,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,94990
-Lenovo,Ideapad,Intel,Core i7,8th,16 GB GB,512 GB,0 GB,Windows,64-bit,86000
-Lenovo,Missing,Intel,Core i7,10th,16 GB GB,512 GB,0 GB,Windows,32-bit,162399
-HP,Missing,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,32-bit,119599
-Lenovo,Missing,Intel,Core i7,10th,16 GB GB,512 GB,0 GB,Windows,64-bit,211753
-Lenovo,Intel,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,32-bit,110999
-DELL,Missing,Intel,Core i7,11th,16 GB GB,512 GB,0 GB,Windows,64-bit,99990
-ASUS,ZenBook,Intel,Core i7,8th,8 GB GB,512 GB,0 GB,Windows,64-bit,81990
-MSI,GF63,Intel,Core i7,9th,8 GB GB,512 GB,0 GB,Windows,64-bit,66990
-MSI,GF65,Intel,Core i7,10th,16 GB GB,1024 GB,0 GB,Windows,64-bit,84990
-ASUS,Zenbook,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,104990
-ASUS,ZenBook,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,134990
-ASUS,ASUS,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,98990
-HP,Envy,Intel,Core i7,10th,16 GB GB,1024 GB,0 GB,Windows,64-bit,144690
-ASUS,ZenBook,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,99990
-MSI,Stealth,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,119990
-ASUS,Zephyrus,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,32-bit,194990
-ASUS,ZenBook,Intel,Core i7,10th,16 GB GB,1024 GB,0 GB,Windows,64-bit,124990
-DELL,Inspiron,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,122410
-HP,Spectre,Intel,Core i7,10th,16 GB GB,1024 GB,0 GB,Windows,64-bit,179990
-MSI,Summit,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,154990
-Lenovo,Yoga,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,122990
-ASUS,Missing,Intel,Core i7,10th,16 GB GB,1024 GB,0 GB,Windows,64-bit,224990
-MSI,Stealth,Intel,Core i7,12th,16 GB GB,1024 GB,0 GB,Windows,64-bit,279990
-HP,OMEN,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,121990
-HP,OMEN,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,116990
-Lenovo,Legion,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,151098
-MSI,Pulse,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,129990
-HP,Spectre,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,149999
-MSI,Missing,Intel,Core i7,12th,16 GB GB,1024 GB,0 GB,Windows,64-bit,139990
-acer,Predator,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,129990
-HP,OMEN,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,171990
-DELL,Inspiron,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,93955
-ASUS,ROG,Intel,Core i7,10th,16 GB GB,1024 GB,0 GB,Windows,64-bit,234990
-HP,Spectre,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,128500
-Lenovo,Yoga,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,102990
-ASUS,ZenBook,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,119990
-ASUS,Missing,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,32-bit,120980
-ASUS,Zephyrus,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,32-bit,157249
-Lenovo,Missing,Intel,Core i7,9th,16 GB GB,1024 GB,0 GB,Windows,64-bit,229900
-ASUS,ASUS,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,131500
-ASUS,ExpertBook,Intel,Core i7,10th,16 GB GB,1024 GB,0 GB,Windows,64-bit,154990
-ASUS,ExpertBook,Intel,Core i7,10th,16 GB GB,1024 GB,0 GB,Windows,64-bit,165990
-Lenovo,Yoga,Intel,Core i7,10th,16 GB GB,1024 GB,0 GB,Windows,64-bit,119990
-ASUS,ExpertBook,Intel,Core i7,10th,16 GB GB,1024 GB,0 GB,Windows,64-bit,167990
-HP,Spectre,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,165000
-Avita,Liber,Intel,Core i7,10th,16 GB GB,1024 GB,0 GB,Windows,64-bit,62990
-Lenovo,ThinkBook,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,85990
-HP,HP,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,94990
-HP,Omen,Intel,Core i7,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,136990
-Lenovo,Legion,Intel,Core i7,10th,16 GB GB,1024 GB,0 GB,Windows,64-bit,234990
-acer,Predator,Intel,Core i7,10th,16 GB GB,2048 GB,0 GB,Windows,64-bit,159990
-ASUS,ExpertBook,Intel,Core i7,10th,16 GB GB,2048 GB,0 GB,Windows,64-bit,233990
-ASUS,ExpertBook,Intel,Core i7,10th,16 GB GB,0 GB,1024 GB,Windows,64-bit,93990
-HP,15,Intel,Core i7,8th,16 GB GB,128 GB,1024 GB,Windows,64-bit,116941
-MSI,GF63,Intel,Core i7,10th,8 GB GB,256 GB,1024 GB,Windows,64-bit,63990
-ASUS,VivoBook,Intel,Core i7,10th,16 GB GB,256 GB,1024 GB,Windows,64-bit,66990
-ASUS,Missing,Intel,Core i7,11th,16 GB GB,256 GB,1024 GB,Windows,32-bit,82500
-acer,Predator,Intel,Core i7,10th,16 GB GB,256 GB,1024 GB,Windows,64-bit,119990
-MSI,WF65,Intel,Core i7,10th,16 GB GB,256 GB,1024 GB,Windows,64-bit,159990
-ASUS,Pro,Intel,Core i7,8th,16 GB GB,256 GB,1024 GB,Windows,64-bit,98912
-acer,Predator,Intel,Core i7,11th,16 GB GB,512 GB,1024 GB,Windows,64-bit,92990
-acer,Predator,Intel,Core i7,11th,16 GB GB,512 GB,1024 GB,Windows,32-bit,119990
-acer,Predator,Intel,Core i9,11th,32 GB GB,1024 GB,0 GB,Windows,64-bit,169990
-acer,Predator,Intel,Core i9,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,139990
-MSI,Creator,Intel,Core i9,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,192990
-ASUS,ROG,Intel,Core i9,12th,16 GB GB,1024 GB,0 GB,Windows,64-bit,299990
-ASUS,Missing,Intel,Core i9,10th,16 GB GB,1024 GB,0 GB,Windows,64-bit,269990
-ASUS,ASUS,Intel,Core i9,11th,16 GB GB,1024 GB,0 GB,Windows,64-bit,139990
-Lenovo,Missing,Intel,Core i9,10th,16 GB GB,1024 GB,0 GB,Windows,32-bit,265998
-ASUS,Zephyrus,Intel,Core i9,11th,16 GB GB,3072 GB,0 GB,Windows,32-bit,441990
-Smartron,t.book,Intel,Core m3,7th,4 GB GB,128 GB,0 GB,Windows,64-bit,42990
-MSI,Katana,Intel,Core i5,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,86990
-acer,Aspire,AMD,Dual Core,Missing,4 GB GB,256 GB,0 GB,Windows,64-bit,29990
-acer,Dual,AMD,Dual Core,Missing,4 GB GB,256 GB,0 GB,Windows,64-bit,31990
-MSI,Pulse,Intel,Core i5,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,109990
-MSI,Pulse,Intel,Core i5,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,109590
-ASUS,ROG,Intel,Core i7,10th,16 GB GB,0 GB,512 GB,DOS,32-bit,146490
-HP,Chromebook,Intel,Dual Core,10th,4 GB GB,0 GB,512 GB,DOS,32-bit,61745
-ASUS,ZenBook,Intel,Ever Screenpad,10th,4 GB GB,0 GB,512 GB,DOS,64-bit,209690
-ASUS,ZenBook,Intel,Ever Screenpad,10th,4 GB GB,0 GB,512 GB,DOS,64-bit,175190
-ALIENWARE,Missing,Intel,GeForce GTX,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,199990
-DELL,G15,Intel,GeForce GTX,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,75500
-ALIENWARE,Missing,Intel,GeForce RTX,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,345390
-ALIENWARE,Missing,Intel,GeForce RTX,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,214790
-ALIENWARE,Missing,Intel,GeForce RTX,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,269290
-DELL,G15,Intel,GEFORCE RTX,10th,4 GB GB,0 GB,512 GB,DOS,32-bit,95990
-MSI,GF65,Intel,Hexa Core,Missing,16 GB GB,512 GB,0 GB,Windows,64-bit,76990
-MSI,GF63,Intel,Hexa Core,Missing,8 GB GB,256 GB,1024 GB,Windows,64-bit,55990
-APPLE,MacBook,M1,M1,10th,8 GB GB,256 GB,0 GB,Mac,64-bit,85990
-APPLE,MacBook,M1,M1,10th,8 GB GB,256 GB,0 GB,Mac,64-bit,112990
-APPLE,MacBook,M1,M1,10th,16 GB GB,256 GB,0 GB,Mac,64-bit,104990
-APPLE,MacBook,M1,M1,10th,8 GB GB,256 GB,0 GB,Mac,64-bit,112990
-APPLE,MacBook,M1,M1,10th,16 GB GB,256 GB,0 GB,Mac,64-bit,132990
-APPLE,MacBook,M1,M1,10th,16 GB GB,256 GB,0 GB,Mac,64-bit,104990
-APPLE,MacBook,M1,M1,10th,8 GB GB,256 GB,0 GB,Mac,64-bit,85990
-APPLE,MacBook,M1,M1,10th,16 GB GB,512 GB,0 GB,Mac,64-bit,149990
-APPLE,MacBook,M1,M1,10th,8 GB GB,512 GB,0 GB,Mac,64-bit,125990
-APPLE,MacBook,M1,M1,10th,8 GB GB,512 GB,0 GB,Mac,64-bit,103990
-APPLE,MacBook,M1,M1,10th,8 GB GB,512 GB,0 GB,Mac,64-bit,101990
-APPLE,MacBook,M1,M1,10th,8 GB GB,512 GB,0 GB,Mac,64-bit,104990
-APPLE,MacBook,M1,M1,10th,8 GB GB,512 GB,0 GB,Mac,64-bit,131990
-APPLE,MacBook,M1,M1,10th,16 GB GB,512 GB,0 GB,Mac,64-bit,128990
-APPLE,MacBook,M1,M1,10th,16 GB GB,512 GB,0 GB,Mac,64-bit,184990
-APPLE,MacBook,M1,M1,10th,16 GB GB,512 GB,0 GB,Mac,64-bit,225990
-APPLE,MacBook,M1,M1,10th,4 GB GB,512 GB,0 GB,Mac,64-bit,124990
-APPLE,MacBook,M1,M1,10th,8 GB GB,512 GB,0 GB,Mac,64-bit,104990
-APPLE,MacBook,M1,M1,10th,8 GB GB,1024 GB,0 GB,Mac,64-bit,149990
-APPLE,MacBook,M1,M1,10th,16 GB GB,1024 GB,0 GB,Mac,64-bit,169990
-APPLE,MacBook,M1,M1,10th,16 GB GB,1024 GB,0 GB,Mac,64-bit,225990
-APPLE,MacBook,M1,M1,10th,16 GB GB,1024 GB,0 GB,Mac,64-bit,243990
-APPLE,MacBook,M1,M1,10th,32 GB GB,1024 GB,0 GB,Mac,64-bit,309990
-APPLE,MacBook,M1,M1,10th,16 GB GB,1024 GB,0 GB,Mac,64-bit,225990
-DELL,G7,Intel,GeForce RTX,10th,8 GB GB,0 GB,512 GB,DOS,32-bit,179990
-acer,Missing,Intel,Genuine Windows,10th,4 GB GB,128 GB,0 GB,DOS,32-bit,116640
-acer,Predator,Intel,Genuine Windows,10th,4 GB GB,0 GB,512 GB,DOS,32-bit,129999
-ASUS,ASUS,Intel,Pentium Quad,Missing,4 GB GB,0 GB,512 GB,Windows,64-bit,45990
-iball,CompBook,Intel,Pentium Quad,Missing,4 GB GB,0 GB,512 GB,Windows,64-bit,13990
-ASUS,Pentium,Intel,Pentium Quad,Missing,4 GB GB,128 GB,0 GB,Windows,32-bit,58100
-ASUS,ASUS,Intel,Pentium Quad,Missing,8 GB GB,256 GB,0 GB,Windows,64-bit,62990
-HP,Pentium,Intel,Pentium Quad,Missing,8 GB GB,256 GB,0 GB,Windows,64-bit,32990
-ASUS,VivoBook,Intel,Pentium Quad,Missing,4 GB GB,256 GB,0 GB,Windows,64-bit,33990
-acer,Extensa,Intel,Pentium Quad,Missing,4 GB GB,256 GB,0 GB,Windows,64-bit,30990
-DELL,Inspiron,Intel,Pentium Quad,Missing,4 GB GB,256 GB,0 GB,Windows,64-bit,36000
-ASUS,VivoBook,Intel,Pentium Quad,Missing,4 GB GB,256 GB,0 GB,Windows,64-bit,32990
-DELL,Inspiron,Intel,Pentium Quad,Missing,4 GB GB,256 GB,0 GB,Windows,64-bit,35990
-ASUS,Pentium,Intel,Pentium Quad,Missing,4 GB GB,0 GB,1024 GB,Windows,64-bit,27990
-ASUS,Pentium,Intel,Pentium Quad,Missing,4 GB GB,0 GB,1024 GB,Windows,64-bit,25990
-ASUS,Pentium,Intel,Pentium Quad,Missing,4 GB GB,0 GB,1024 GB,Windows,64-bit,25990
-ASUS,Asus,Intel,Pentium Quad,Missing,4 GB GB,0 GB,1024 GB,Windows,64-bit,30780
-ASUS,VivoBook,Intel,Pentium Silver,Missing,4 GB GB,256 GB,0 GB,Windows,64-bit,29990
-ASUS,EeeBook,Intel,Pentium Silver,Missing,4 GB GB,256 GB,0 GB,Windows,64-bit,31990
-Lenovo,Legion,Intel,Genuine Windows,10th,4 GB GB,0 GB,512 GB,DOS,32-bit,77890
-HP,Ryzen,AMD,Ryzen 3,Missing,8 GB GB,256 GB,0 GB,Windows,64-bit,37990
-ASUS,Ryzen,AMD,Ryzen 3,Missing,8 GB GB,256 GB,0 GB,Windows,64-bit,35990
-DELL,Inspiron,AMD,Ryzen 3,Missing,8 GB GB,256 GB,0 GB,Windows,64-bit,39490
-DELL,Inspiron,AMD,Ryzen 3,Missing,8 GB GB,256 GB,0 GB,Windows,64-bit,36990
-DELL,Ryzen,AMD,Ryzen 3,Missing,8 GB GB,256 GB,0 GB,Windows,64-bit,39990
-ASUS,Ryzen,AMD,Ryzen 3,Missing,4 GB GB,256 GB,0 GB,Windows,64-bit,33690
-DELL,Inspiron,AMD,Ryzen 3,Missing,8 GB GB,256 GB,0 GB,Windows,64-bit,40590
-ASUS,VivoBook,AMD,Ryzen 3,Missing,4 GB GB,256 GB,0 GB,Windows,64-bit,37990
-ASUS,VivoBook,AMD,Ryzen 3,Missing,4 GB GB,256 GB,0 GB,Windows,64-bit,34500
-acer,Aspire,AMD,Ryzen 3,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,36990
-HP,Ryzen,AMD,Ryzen 3,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,43490
-HP,Ryzen,AMD,Ryzen 3,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,41490
-acer,Aspire,AMD,Ryzen 3,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,34990
-HP,15s,AMD,Ryzen 3,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,44490
-DELL,Vostro,AMD,Ryzen 3,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,40590
-DELL,Inspiron,AMD,Ryzen 3,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,42090
-DELL,Vostro,AMD,Ryzen 3,Missing,8 GB GB,0 GB,1024 GB,Windows,64-bit,35990
-HP,15s,AMD,Ryzen 3,Missing,8 GB GB,0 GB,1024 GB,Windows,64-bit,39490
-DELL,Inspiron,AMD,Ryzen 3,Missing,8 GB GB,0 GB,1024 GB,Windows,64-bit,37390
-DELL,Inspiron,AMD,Ryzen 3,Missing,4 GB GB,0 GB,1024 GB,Windows,64-bit,52632
-DELL,Inspiron,AMD,Ryzen 3,Missing,4 GB GB,0 GB,1024 GB,Windows,64-bit,39990
-DELL,DELL,AMD,Ryzen 3,Missing,4 GB GB,0 GB,1024 GB,Windows,64-bit,43990
-HP,15q,AMD,Ryzen 3,Missing,4 GB GB,0 GB,1024 GB,Windows,64-bit,32917
-Lenovo,Ryzen,AMD,Ryzen 3,Missing,4 GB GB,0 GB,1024 GB,Windows,64-bit,34990
-DELL,Inspiron,AMD,Ryzen 3,Missing,8 GB GB,0 GB,1024 GB,Windows,64-bit,39990
-HP,15s,AMD,Ryzen 3,Missing,8 GB GB,256 GB,1024 GB,Windows,64-bit,41999
-HP,Chromebook,MediaTek,MediaTek Kompanio,10th,4 GB GB,0 GB,512 GB,DOS,32-bit,22990
-HP,Chromebook,MediaTek,MediaTek Kompanio,10th,4 GB GB,0 GB,512 GB,DOS,32-bit,22490
-HP,Chromebook,MediaTek,MediaTek Kompanio,10th,4 GB GB,0 GB,512 GB,DOS,32-bit,22990
-MICROSOFT,Surface,AMD,Ryzen 5,Missing,4 GB GB,128 GB,0 GB,Windows,64-bit,99990
-DELL,Vostro,AMD,Ryzen 5,Missing,8 GB GB,256 GB,0 GB,Windows,64-bit,41990
-DELL,Inspiron,AMD,Ryzen 5,Missing,8 GB GB,256 GB,0 GB,Windows,64-bit,44490
-DELL,Inspiron,AMD,Ryzen 5,Missing,8 GB GB,256 GB,0 GB,Windows,64-bit,41990
-DELL,Vostro,AMD,Ryzen 5,Missing,8 GB GB,256 GB,0 GB,Windows,64-bit,44490
-MSI,Modern,AMD,Ryzen 5,Missing,4 GB GB,256 GB,0 GB,Windows,64-bit,49990
-DELL,Inspiron,AMD,Ryzen 5,Missing,4 GB GB,256 GB,0 GB,Windows,64-bit,44390
-HP,Pavilion,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,57990
-Lenovo,IdeaPad,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,56990
-Lenovo,IdeaPad,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,48990
-HP,Ryzen,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,49970
-MSI,Modern,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,47990
-HP,Ryzen,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,48990
-acer,Swift,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,53990
-Lenovo,IdeaPad,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,52990
-acer,Aspire,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,43990
-Lenovo,Ideapad,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,59490
-MSI,Bravo,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,64990
-DELL,Vostro,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,47490
-HP,HP,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,59990
-Lenovo,Legion,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,69990
-HP,15-ec1105AX,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,58990
-DELL,Vostro,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,59490
-HP,Pavilion,AMD,Ryzen 5,Missing,16 GB GB,512 GB,0 GB,Windows,64-bit,67500
-HP,Ryzen,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,32-bit,48990
-ASUS,VivoBook,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,62450
-ASUS,VivoBook,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,58990
-ASUS,APU,AMD,Quad,10th,4 GB GB,0 GB,512 GB,DOS,32-bit,19990
-HP,Pavilion,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,57999
-ASUS,VivoBook,AMD,Ryzen 5,Missing,16 GB GB,512 GB,0 GB,Windows,64-bit,56990
-HP,Pavilion,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,72990
-HP,Pavilion,AMD,Ryzen 5,Missing,16 GB GB,512 GB,0 GB,Windows,64-bit,65990
-HP,Envy,AMD,Ryzen 5,Missing,16 GB GB,512 GB,0 GB,Windows,64-bit,98020
-HP,Pavilion,AMD,Ryzen 5,Missing,16 GB GB,512 GB,0 GB,Windows,64-bit,63990
-ASUS,Ryzen,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,32-bit,49890
-DELL,Inspiron,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,49990
-DELL,Vostro,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,59490
-HP,Envy,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,73999
-DELL,Inspiron,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,60990
-DELL,G5,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,76190
-Lenovo,Yoga,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,74798
-ASUS,VivoBook,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,58990
-HP,Ryzen,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,32-bit,68100
-Lenovo,Yoga,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,77990
-HP,Pavilion,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,55090
-ASUS,Zenbook,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,91990
-HP,Pavilion,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,84208
-acer,Aspire,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,44990
-HP,15s,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,53490
-Lenovo,Legion,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,76498
-DELL,Ryzen,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,98920
-MSI,Modern,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,54990
-acer,Aspire,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,49990
-HP,Ryzen,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,32-bit,52380
-acer,Aspire,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,49990
-HP,14s,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,52500
-Vaio,E,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,49590
-ASUS,Ryzen,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,49990
-acer,Aspire,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,75999
-ASUS,AMD,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,80990
-Lenovo,IDEAPAD,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,32-bit,59900
-HP,15s,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,54590
-DELL,Inspiron,AMD,Ryzen 5,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,75500
-HP,Ryzen,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,51890
-ASUS,VivoBook,AMD,Ryzen 5,Missing,16 GB GB,512 GB,0 GB,Windows,64-bit,78000
-Vaio,E,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,50990
-HP,Pavilion,AMD,Ryzen 5,Missing,16 GB GB,512 GB,0 GB,Windows,64-bit,59999
-HP,Pavilion,AMD,Ryzen 5,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,64990
-DELL,Ryzen,AMD,Ryzen 5,Missing,4 GB GB,1024 GB,0 GB,Windows,32-bit,57900
-Lenovo,Yoga,AMD,Ryzen 5,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,81978
-HP,Pavilion,AMD,Ryzen 5,Missing,4 GB GB,0 GB,1024 GB,Windows,64-bit,59990
-DELL,Inspiron,AMD,Ryzen 5,Missing,8 GB GB,256 GB,1024 GB,Windows,64-bit,49490
-ASUS,VivoBook,AMD,Ryzen 5,Missing,8 GB GB,256 GB,1024 GB,Windows,64-bit,54990
-Lenovo,Legion,AMD,Ryzen 5,Missing,8 GB GB,256 GB,1024 GB,Windows,64-bit,68500
-ASUS,VivoBook,AMD,Ryzen 5,Missing,8 GB GB,256 GB,1024 GB,Windows,64-bit,54990
-ASUS,VivoBook,AMD,Ryzen 5,Missing,8 GB GB,256 GB,1024 GB,Windows,32-bit,54990
-Lenovo,Ideapad,AMD,Ryzen 5,Missing,8 GB GB,256 GB,1024 GB,Windows,64-bit,63990
-HP,Pavilion,AMD,Ryzen 5,Missing,4 GB GB,256 GB,1024 GB,Windows,64-bit,80000
-DELL,Ryzen,AMD,Ryzen 5,Missing,4 GB GB,256 GB,1024 GB,Windows,32-bit,51990
-ASUS,VivoBook,AMD,Ryzen 5,Missing,4 GB GB,256 GB,1024 GB,Windows,64-bit,62990
-HP,Ryzen,AMD,Ryzen 5,Missing,4 GB GB,256 GB,1024 GB,Windows,64-bit,52990
-ASUS,Ryzen,AMD,Ryzen 5,Missing,4 GB GB,256 GB,1024 GB,Windows,64-bit,75100
-ASUS,ASUS,AMD,Ryzen 7,Missing,16 GB GB,512 GB,0 GB,Windows,32-bit,76990
-ASUS,Ryzen,AMD,Ryzen 7,Missing,16 GB GB,512 GB,0 GB,Windows,64-bit,79990
-ASUS,ROG,AMD,Ryzen 7,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,71990
-ASUS,ROG,AMD,Ryzen 7,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,71990
-Lenovo,Lenovo,AMD,Ryzen 7,Missing,16 GB GB,512 GB,0 GB,Windows,64-bit,99990
-ASUS,Ryzen,AMD,Ryzen 7,Missing,16 GB GB,512 GB,0 GB,Windows,64-bit,79990
-DELL,Ryzen,AMD,Ryzen 7,Missing,16 GB GB,512 GB,0 GB,Windows,64-bit,93990
-ASUS,ASUS,AMD,Ryzen 7,Missing,16 GB GB,512 GB,0 GB,Windows,64-bit,82990
-ASUS,ROG,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,106990
-ASUS,VivoBook,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,92990
-Lenovo,IdeaPad,Intel,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,32-bit,81490
-ASUS,VivoBook,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,56990
-MSI,Modern,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,64990
-Lenovo,Ideapad,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,60990
-Lenovo,Ryzen,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,84988
-HP,Pavilion,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,90990
-Vaio,E,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,56990
-ASUS,VivoBook,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,63990
-Lenovo,Ideapad,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,63990
-HP,Ryzen,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,57999
-ASUS,Ryzen,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,32-bit,72400
-Lenovo,Yoga,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,78990
-acer,Aspire,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,59990
-ASUS,ROG,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,32-bit,111990
-HP,Ryzen,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,32-bit,109000
-DELL,G5,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,89990
-Lenovo,Yoga,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,78988
-Lenovo,Ryzen,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,73138
-Lenovo,Ryzen,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,106990
-ASUS,Ryzen,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,32-bit,79990
-DELL,Inspiron,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,89570
-HP,15s,AMD,Ryzen 7,Missing,4 GB GB,512 GB,0 GB,Windows,64-bit,68500
-Lenovo,Ideapad,AMD,Ryzen 7,Missing,16 GB GB,512 GB,0 GB,Windows,64-bit,73400
-Vaio,E,AMD,Ryzen 7,Missing,8 GB GB,512 GB,0 GB,Windows,64-bit,57990
-HP,Pavilion,AMD,Ryzen 7,Missing,16 GB GB,512 GB,0 GB,Windows,64-bit,79990
-HP,Pavilion,AMD,Ryzen 7,Missing,16 GB GB,512 GB,0 GB,Windows,64-bit,84990
-MSI,Alpha,AMD,Ryzen 7,Missing,16 GB GB,1024 GB,0 GB,Windows,64-bit,99990
-ASUS,ROG,AMD,Ryzen 7,Missing,8 GB GB,1024 GB,0 GB,Windows,64-bit,72990
-HP,HP,AMD,Ryzen 7,Missing,16 GB GB,1024 GB,0 GB,Windows,64-bit,92990
-HP,Pavilion,AMD,Ryzen 7,Missing,16 GB GB,1024 GB,0 GB,Windows,64-bit,84190
-ASUS,Zenbook,AMD,Ryzen 7,Missing,16 GB GB,1024 GB,0 GB,Windows,64-bit,112990
-ASUS,ROG,AMD,Ryzen 7,Missing,4 GB GB,1024 GB,0 GB,Windows,32-bit,114990
-acer,Swift,AMD,Ryzen 7,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,99990
-ASUS,TUF,AMD,Ryzen 7,Missing,4 GB GB,1024 GB,0 GB,Windows,32-bit,95990
-HP,OMEN,AMD,Ryzen 7,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,159990
-ASUS,ROG,AMD,Ryzen 7,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,76990
-Lenovo,Legion,AMD,Ryzen 7,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,130990
-ASUS,VivoBook,AMD,Ryzen 7,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,99990
-ASUS,ROG,AMD,Ryzen 7,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,112990
-Lenovo,Ideapad,AMD,Ryzen 7,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,77988
-ASUS,ROG,AMD,Ryzen 7,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,76000
-ASUS,ROG,AMD,Ryzen 7,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,99990
-ASUS,Zephyrus,AMD,Ryzen 7,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,111000
-ASUS,Ryzen,AMD,Ryzen 7,Missing,16 GB GB,1024 GB,0 GB,Windows,64-bit,84970
-HP,Pavilion,AMD,Ryzen 7,Missing,16 GB GB,256 GB,1024 GB,Windows,64-bit,75990
-acer,Nitro,AMD,Ryzen 7,Missing,16 GB GB,256 GB,1024 GB,Windows,64-bit,89990
-acer,Nitro,AMD,Ryzen 7,Missing,16 GB GB,256 GB,1024 GB,Windows,64-bit,81990
-Lenovo,Ryzen,AMD,Ryzen 7,Missing,4 GB GB,512 GB,1024 GB,Windows,32-bit,80490
-ASUS,ROG,AMD,Ryzen 9,Missing,16 GB GB,1024 GB,0 GB,Windows,64-bit,135990
-ASUS,ROG,AMD,Ryzen 9,Missing,16 GB GB,1024 GB,0 GB,Windows,32-bit,154990
-ASUS,ROG,AMD,Ryzen 9,Missing,16 GB GB,1024 GB,0 GB,Windows,64-bit,199990
-ASUS,ROG,AMD,Ryzen 9,Missing,16 GB GB,1024 GB,0 GB,Windows,64-bit,114990
-ASUS,ROG,AMD,Ryzen 9,Missing,16 GB GB,1024 GB,0 GB,Windows,64-bit,129990
-ASUS,ROG,AMD,Ryzen 9,Missing,16 GB GB,1024 GB,0 GB,Windows,64-bit,114990
-MSI,Delta,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,146990
-ASUS,VivoBook,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,104990
-ASUS,ROG,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,114990
-ASUS,ROG,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,124990
-ASUS,Zenbook,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,134990
-HP,OMEN,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,141990
-ASUS,Rog,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,129990
-ASUS,ROG,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,142990
-ASUS,Zephyrus,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,121990
-ASUS,ROG,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,124990
-ASUS,ROG,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,141990
-ASUS,VivoBook,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,162990
-ASUS,VivoBook,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,130500
-ASUS,VivoBook,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,116990
-ASUS,Ryzen,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,32-bit,138990
-ASUS,ROG,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,234990
-ASUS,ROG,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,135990
-ASUS,ROG,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,144990
-ASUS,Ryzen,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,149990
-ASUS,Ryzen,AMD,Ryzen 9,Missing,4 GB GB,1024 GB,0 GB,Windows,64-bit,142990
-SAMSUNG,Galaxy,Qualcomm,Snapdragon 7c,Missing,4 GB GB,0 GB,512 GB,Windows,32-bit,38990
-Lenovo,Thinkpad,AMD,Ryzen 5,10th,8 GB GB,512 GB,0 GB,DOS,64-bit,57490
+Lenovo,A6-9225,AMD,A6-9225 Processor,10,4,0,1024,Windows,64,24990
+Lenovo,Ideapad,AMD,APU Dual,10,4,0,512,Windows,64,19590
+Avita,PURA,AMD,APU Dual,10,4,128,0,Windows,64,19990
+Avita,PURA,AMD,APU Dual,10,4,128,0,Windows,64,21490
+Avita,PURA,AMD,APU Dual,10,4,256,0,Windows,64,24990
+Avita,PURA,AMD,APU Dual,10,8,256,0,Windows,64,24990
+HP,APU,AMD,APU Dual,10,4,0,1024,Windows,32,20900
+Lenovo,APU,AMD,APU Dual,10,4,0,1024,Windows,64,21896
+HP,Athlon,AMD,Athlon Dual,10,32,32,0,Windows,32,26899
+Acer,Aspire,AMD,Athlon Dual,10,4,256,0,Windows,64,31990
+ASUS,ExpertBook,Intel,Core i3,10,4,0,1024,Windows,64,34649
+Lenovo,Missing,Intel,Core i3,10,4,0,1024,Windows,64,38999
+Lenovo,v15,Intel,Core i3,10,4,0,1024,Windows,64,39999
+ASUS,ExpertBook,Intel,Core i5,10,8,512,0,Windows,32,69990
+ASUS,ExpertBook,Intel,Core i5,10,8,0,1024,Windows,32,58799
+Lenovo,Missing,Intel,Core i5,10,4,0,1024,Windows,32,49999
+Acer,Aspire,AMD,Ryzen,10,4,0,512,Windows,32,54990
+Acer,Nitro,AMD,Ryzen 5,10,4,0,512,Windows,32,59990
+Acer,Nitro,AMD,Ryzen 5,10,4,0,512,Windows,32,93700
+Acer,Nitro,AMD,Ryzen 5,10,4,0,512,Windows,32,72990
+ASUS,ExpertBook,Intel,Core i3,11,4,256,0,Windows,64,35990
+HP,x360,Intel,Core i3,11,8,256,0,Windows,64,56490
+HP,x360,Intel,Core i5,11,8,256,0,Windows,64,65390
+HP,15q,Intel,Core i3,7,4,0,1024,Windows,64,32955
+HP,250-G6,Intel,Core i5,7,4,0,1024,Windows,32,46200
+ASUS,Missing,Intel,Core i3,11,4,256,0,Windows,64,34429
+Lenovo,IdeaPad,Intel,Core i3,10,8,256,0,Windows,32,37990
+ASUS,VivoBook,Intel,Core i3,11,4,256,0,Windows,32,35990
+ASUS,VivoBook,Intel,Core i3,10,8,256,0,Windows,64,33980
+HP,Missing,Intel,Core i3,11,8,256,0,Windows,64,39990
+DELL,Vostro,Intel,Core i3,10,8,256,0,Windows,64,39490
+RedmiBook,15,Intel,Core i3,11,8,256,0,Windows,32,38990
+HP,Pavilion,Intel,Core i3,11,8,256,0,Windows,64,53990
+Acer,Aspire,Intel,Core i3,11,8,256,0,Windows,64,38990
+realme,Book,Intel,Core i3,11,8,256,0,Windows,64,46990
+ASUS,Missing,Intel,Core i3,11,8,256,0,Windows,64,37990
+ASUS,VivoBook,Intel,Core i3,11,8,256,0,Windows,64,37890
+Lenovo,IdeaPad,Intel,Core i3,11,8,256,0,Windows,64,38990
+Lenovo,IdeaPad,Intel,Core i3,10,8,256,0,Windows,64,37990
+DELL,Vostro,Intel,Core i3,11,8,256,0,Windows,64,41990
+ASUS,VivoBook,Intel,Core i3,11,8,256,0,Windows,64,45990
+Lenovo,IdeaPad,Intel,Core i3,11,8,256,0,Windows,64,39990
+DELL,Inspiron,Intel,Core i3,11,8,256,0,Windows,64,42490
+Infinix,INBook,Intel,Core i3,10,8,256,0,Windows,64,32990
+DELL,Vostro,Intel,Core i3,10,4,256,0,Windows,64,36990
+Lenovo,Ideapad,Intel,Core i3,11,8,256,0,Windows,64,53990
+ASUS,VivoBook,Intel,Core i3,11,8,256,0,Windows,64,36990
+Lenovo,IdeaPad,Intel,Core i3,10,4,256,0,Windows,64,38940
+DELL,Inspiron,Intel,Core i3,10,4,256,0,Windows,64,39490
+ASUS,VivoBook,Intel,Core i3,11,8,256,0,Windows,64,45990
+Lenovo,Ideapad,Intel,Core i3,10,8,256,0,Windows,64,39999
+DELL,Inspiron,Intel,Core i3,11,8,256,0,Windows,64,42990
+DELL,Inspiron,Intel,Core i3,11,8,256,0,Windows,64,49990
+DELL,Vostro,Intel,Core i3,11,8,256,0,Windows,64,41490
+DELL,Inspiron,Intel,Core i3,11,8,256,0,Windows,64,41990
+Lenovo,Ideapad,Intel,Core i3,11,8,256,0,Windows,64,41990
+Infinix,INBook,Intel,Core i3,10,8,256,0,Windows,64,32990
+ASUS,VivoBook,Intel,Core i3,11,8,256,0,Windows,64,38490
+Lenovo,Missing,Intel,Core i3,11,4,256,0,Windows,64,38990
+Lenovo,ThinkPad,Intel,Core i3,11,4,256,0,Windows,64,44990
+Lenovo,IdeaPad,Intel,Core i3,10,4,256,0,Windows,64,36490
+Lenovo,Missing,Intel,Core i3,10,8,256,0,Windows,32,38970
+HP,Missing,Intel,Core i3,11,4,256,0,Windows,64,44900
+MSI,Missing,Intel,Core i3,10,4,256,0,Windows,64,38990
+DELL,Vostro,Intel,Core i3,11,4,256,0,Windows,64,44427
+ASUS,VivoBook,Intel,Core i3,10,4,256,0,Windows,64,35990
+Lenovo,Ideapad,Intel,Core i3,10,4,256,0,Windows,64,40200
+Lenovo,Missing,Intel,Core i3,10,4,256,0,Windows,32,40990
+DELL,Inspiron,Intel,Core i3,10,4,256,0,Windows,64,42490
+realme,Book,Intel,Core i3,11,4,256,0,Windows,64,47999
+DELL,Missing,Intel,Core i3,11,4,256,0,Windows,64,71999
+ASUS,VivoBook,Intel,Core i3,11,4,256,0,Windows,64,39990
+Lenovo,IdeaPad,Intel,Core i3,10,4,256,0,Windows,64,41998
+ASUS,Missing,Intel,Core i3,11,4,256,0,Windows,32,41990
+Lenovo,Ideapad,Intel,Core i3,10,4,256,0,Windows,64,39999
+ASUS,Commercial,Intel,Core i3,10,4,256,0,Windows,32,39990
+Lenovo,Ideapad,Intel,Core i3,11,4,256,0,Windows,64,39998
+HP,14s,Intel,Core i3,11,4,256,0,Windows,64,42490
+Lenovo,Missing,Intel,Core i3,10,4,256,0,Windows,32,41990
+ASUS,Missing,Intel,Core i3,11,4,256,0,Windows,32,48490
+HP,Missing,Intel,Core i3,11,4,256,0,Windows,64,44376
+DELL,Missing,Intel,Core i3,11,4,256,0,Windows,32,43900
+DELL,INSPIRON,Intel,Core i3,11,4,256,0,Windows,64,46690
+Lenovo,Missing,Intel,Core i3,10,4,256,0,Windows,32,40990
+DELL,Inspiron,Intel,Core i3,10,4,256,0,Windows,64,39990
+Lenovo,V15,Intel,Core i3,11,4,256,0,Windows,64,43990
+ASUS,VivoBook,Intel,Core i3,11,4,256,0,Windows,64,36990
+DELL,Missing,Intel,Core i3,11,8,256,0,Windows,64,48500
+ASUS,VivoBook,Intel,Core i3,11,8,256,0,Windows,64,48990
+HP,Pavilion,Intel,Core i3,8,4,256,0,Windows,64,54238
+ASUS,VivoBook,Intel,Core i3,10,8,512,0,Windows,64,37990
+HP,Missing,Intel,Core i3,11,8,512,0,Windows,64,42990
+HP,Missing,Intel,Core i3,11,8,512,0,Windows,64,42990
+ASUS,VivoBook,Intel,Core i3,10,4,512,0,Windows,64,35990
+RedmiBook,15,Intel,Core i3,11,8,512,0,Windows,32,42990
+ASUS,VivoBook,Intel,Core i3,11,8,512,0,Windows,64,42990
+ASUS,VivoBook,Intel,Core i3,11,8,512,0,Windows,32,51990
+ASUS,VivoBook,Intel,Core i3,11,8,512,0,Windows,64,48990
+ASUS,VivoBook,Intel,Core i3,11,8,512,0,Windows,64,42990
+Lenovo,Missing,Intel,Core i3,10,8,512,0,Windows,64,38990
+DELL,Inspiron,Intel,Core i3,11,8,512,0,Windows,64,45990
+HP,Missing,Intel,Core i3,10,8,512,0,Windows,64,42490
+HP,Missing,Intel,Core i3,11,8,512,0,Windows,64,43970
+ASUS,Missing,Intel,Core i3,10,4,512,0,Windows,64,39990
+MSI,Missing,Intel,Core i3,11,8,512,0,Windows,64,48990
+HP,Pavilion,Intel,Core i3,11,8,512,0,Windows,64,54990
+MSI,Missing,Intel,Core i3,10,8,512,0,Windows,64,40990
+ASUS,VivoBook,Intel,Core i3,11,8,512,0,Windows,64,41990
+Lenovo,IdeaPad,Intel,Core i3,11,8,512,0,Windows,64,54990
+ASUS,VivoBook,Intel,Core i3,11,8,512,0,Windows,64,44990
+HP,Missing,Intel,Core i3,11,8,512,0,Windows,64,41250
+HP,Missing,Intel,Core i3,11,8,512,0,Windows,64,44990
+ASUS,VivoBook,Intel,Core i3,11,8,512,0,Windows,64,42990
+DELL,Missing,Intel,Core i3,11,8,512,0,Windows,64,60790
+HP,Missing,Intel,Core i3,11,8,512,0,Windows,64,45650
+DELL,Vostro,Intel,Core i3,10,8,512,0,Windows,64,41990
+DELL,Inspiron,Intel,Core i3,10,8,512,0,Windows,64,45490
+ASUS,VivoBook,Intel,Core i3,11,8,512,0,Windows,64,44990
+Lenovo,IdeaPad,Intel,Core i3,11,8,512,0,Windows,64,42990
+HP,15s,Intel,Core i3,11,4,512,0,Windows,64,45490
+HP,Missing,Intel,Core i3,10,4,512,0,Windows,32,38799
+HP,Pavilion,Intel,Core i3,11,4,512,0,Windows,64,69267
+ASUS,VivoBook,Intel,Core i3,11,4,512,0,Windows,64,51649
+HP,Missing,Intel,Core i3,11,4,512,0,Windows,64,47990
+ASUS,VivoBook,Intel,Core i3,10,4,512,0,Windows,64,40990
+ASUS,Missing,Intel,Core i3,10,4,512,0,Windows,64,42990
+ASUS,VivoBook,Intel,Core i3,11,4,512,0,Windows,64,44890
+ASUS,VivoBook,Intel,Core i3,10,4,512,0,Windows,64,41490
+HP,15s,Intel,Core i3,11,4,512,0,Windows,32,50990
+HP,Missing,Intel,Core i3,11,4,512,0,Windows,64,48900
+ASUS,VivoBook,Intel,Core i3,10,4,512,0,Windows,64,40990
+DELL,Vostro,Intel,Core i3,10,4,512,0,Windows,64,41790
+Lenovo,Ideapad,Intel,Core i3,11,4,512,0,Windows,64,57999
+DELL,Inspiron,Intel,Core i3,11,8,512,0,Windows,64,45930
+HP,Pavilion,Intel,Core i3,11,8,512,0,Windows,64,55490
+ASUS,VivoBook,Intel,Core i3,10,8,0,1024,Windows,64,32890
+Lenovo,IdeaPad,Intel,Core i3,10,8,0,1024,Windows,64,35990
+DELL,Inspiron,Intel,Core i3,11,8,0,1024,Windows,64,42490
+DELL,Vostro,Intel,Core i3,11,8,0,1024,Windows,64,42190
+DELL,Vostro,Intel,Core i3,10,8,0,1024,Windows,64,39490
+HP,15s,Intel,Core i3,11,8,0,1024,Windows,64,43690
+ASUS,VivoBook,Intel,Core i3,10,4,0,1024,Windows,64,35990
+DELL,3000,Intel,Core i3,11,8,0,1024,Windows,32,43800
+Lenovo,Missing,Intel,Core i3,10,8,0,1024,Windows,32,38990
+ASUS,VivoBook,Intel,Core i3,10,4,0,1024,Windows,64,34990
+ASUS,VivoBook,Intel,Core i3,11,8,0,1024,Windows,64,38900
+DELL,Inspiron,Intel,Core i3,10,4,0,1024,Windows,64,39990
+DELL,INSPIRON,Intel,Core i3,10,4,0,1024,Windows,32,40890
+Lenovo,Missing,Intel,Core i3,10,4,0,1024,Windows,64,36990
+HP,15s,Intel,Core i3,11,4,0,1024,Windows,64,39990
+HP,Missing,Intel,Core i3,11,4,0,1024,Windows,64,41990
+DELL,Missing,Intel,Core i3,11,4,0,1024,Windows,32,43970
+HP,Notebook,Intel,Core i3,11,4,0,1024,Windows,64,39790
+ASUS,Missing,Intel,Core i3,10,4,0,1024,Windows,32,35590
+HP,14s,Intel,Core i3,10,4,0,1024,Windows,64,36490
+ASUS,VivoBook,Intel,Core i3,10,4,0,1024,Windows,64,38990
+ASUS,Missing,Intel,Core i3,10,4,0,1024,Windows,32,33990
+DELL,Inspiron,Intel,Core i3,10,4,0,1024,Windows,64,43400
+HP,15s,Intel,Core i3,10,4,0,1024,Windows,64,40750
+DELL,Inspiron,Intel,Core i3,10,4,0,1024,Windows,64,43000
+ASUS,Vivo,Intel,Core i3,10,4,0,1024,Windows,64,38000
+DELL,Inspiron,Intel,Core i3,11,8,0,1024,Windows,64,37990
+HP,DA,Intel,Core i3,7,8,0,1024,Windows,64,49279
+Lenovo,Missing,Intel,Core i3,10,8,0,1024,Windows,32,38999
+ASUS,Missing,Intel,Core i3,11,8,0,1024,Windows,32,41500
+Acer,Missing,Intel,Core i3,11,4,0,1024,Windows,32,36999
+DELL,Missing,Intel,Core i3,11,8,0,1024,Windows,32,42900
+DELL,Insprion,Intel,Core i3,11,8,0,1024,Windows,32,41480
+ASUS,VivoBook,Intel,Core i3,10,8,0,1024,Windows,64,32990
+ASUS,VivoBook,Intel,Core i3,11,8,0,1024,Windows,64,38680
+DELL,Missing,Intel,Core i3,10,8,0,1024,Windows,64,40390
+ASUS,VivoBook,Intel,Core i3,10,4,0,1024,Windows,64,33990
+DELL,Vostro,Intel,Core i3,10,8,256,1024,Windows,64,41490
+DELL,Inspiron,Intel,Core i3,11,8,256,1024,Windows,64,45490
+DELL,Inspiron,Intel,Core i3,11,8,256,1024,Windows,64,44490
+ASUS,VivoBook,Intel,Core i3,11,8,256,1024,Windows,64,41890
+DELL,Vostro,Intel,Core i3,11,4,256,1024,Windows,64,42990
+Acer,Travelmate,Intel,Core i3,11,8,256,1024,Windows,64,40990
+DELL,Inspiron,Intel,Core i3,11,8,256,1024,Windows,64,48990
+DELL,Vostro,Intel,Core i3,11,4,256,1024,Windows,64,43590
+DELL,Inspiron,Intel,Core i3,10,4,256,1024,Windows,64,44690
+ASUS,ExpertBook,Intel,Core i3,10,4,256,1024,Windows,64,40990
+DELL,Vostro,Intel,Core i3,11,4,256,1024,Windows,64,43990
+DELL,Vostro,Intel,Core i3,11,4,256,1024,Windows,64,43590
+DELL,Vostro,Intel,Core i3,10,4,256,1024,Windows,64,41390
+DELL,Vostro,Intel,Core i3,10,4,256,1024,Windows,64,44290
+DELL,Inspiron,Intel,Core i3,11,4,256,1024,Windows,64,48999
+DELL,Vostro,Intel,Core i3,11,4,256,1024,Windows,64,39990
+DELL,Missing,Intel,Core i3,10,8,256,1024,Windows,64,46390
+Smartron,t.book,Intel,Core i5,7,4,128,0,Windows,64,52990
+HP,Pavilion,Intel,Core i5,8,8,128,0,Windows,64,76012
+Lenovo,Ideapad,Intel,Core i5,11,8,256,0,Windows,64,49490
+Lenovo,Yoga,Intel,Core i5,10,8,0,512,DOS,32,102990
+Acer,Swift,Intel,Core i5,7,8,256,0,Windows,64,86867
+LG,Gram,Intel,Core i5,10,8,256,0,Windows,64,76990
+LG,Gram,Intel,Core i5,11,8,256,0,Windows,64,76990
+ASUS,VivoBook,Intel,Core i5,11,8,256,0,Windows,64,48990
+LG,Gram,Intel,Core i5,10,8,256,0,Windows,64,62990
+DELL,Inspiron,Intel,Core i5,11,8,256,0,Windows,64,55990
+Acer,Swift,Intel,Core i5,8,8,256,0,Windows,64,81998
+LG,Gram,Intel,Core i5,11,8,256,0,Windows,64,76990
+HP,Spectre,Intel,Core i5,8,8,256,0,Windows,64,136590
+Acer,Swift,Intel,Core i5,8,8,256,0,Windows,64,59490
+ASUS,VivoBook14,Intel,Core i5,11,8,256,0,Windows,64,49800
+Lenovo,Ideapad,Intel,Core i5,11,8,256,0,Windows,64,61999
+HP,Missing,Intel,Core i5,11,8,512,0,Windows,64,54990
+HP,Missing,Intel,Core i5,11,8,512,0,Windows,64,53990
+Lenovo,Ideapad,Intel,Core i5,11,8,512,0,Windows,64,52990
+HP,Pavilion,Intel,Core i5,11,16,512,0,Windows,64,67990
+ASUS,TUF,Intel,Core i5,10,8,512,0,Windows,64,57990
+Lenovo,Ideapad,Intel,Core i5,11,16,512,0,Windows,64,62300
+realme,Book(Slim),Intel,Core i5,11,8,512,0,Windows,64,52990
+Lenovo,Missing,Intel,Core i5,11,8,512,0,Windows,64,52990
+Lenovo,IdeaPad,Intel,Core i5,11,8,512,0,Windows,64,51990
+Lenovo,IdeaPad,Intel,Core i5,11,16,512,0,Windows,64,61990
+RedmiBook,Pro,Intel,Core i5,11,8,512,0,Windows,32,48990
+ASUS,VivoBook,Intel,Core i5,11,8,512,0,Windows,32,63990
+Lenovo,ThinkPad,Intel,Core i5,11,8,512,0,Windows,64,65990
+Nokia,PureBook,Intel,Core i5,10,8,512,0,Windows,64,47990
+Acer,Aspire,Intel,Core i5,11,8,512,0,Windows,64,52990
+Lenovo,IdeaPad,Intel,Core i5,10,8,512,0,Windows,64,49990
+ASUS,ASUS,Intel,Core i5,11,8,512,0,Windows,64,71990
+ASUS,VivoBook,Intel,Core i5,10,8,512,0,Windows,64,47990
+Nokia,PureBook,Intel,Core i5,10,8,512,0,Windows,64,45990
+Lenovo,IdeaPad,Intel,Core i5,10,8,512,0,Windows,32,48490
+ASUS,ASUS,Intel,Core i5,11,8,512,0,Windows,64,72990
+MSI,Katana,Intel,Core i5,11,16,512,0,Windows,64,76990
+ASUS,TUF,Intel,Core i5,11,16,512,0,Windows,64,89990
+MSI,GF63,Intel,Core i5,10,8,512,0,Windows,64,59990
+ASUS,TUF,Intel,Core i5,10,8,512,0,Windows,64,65990
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,71990
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,71890
+Lenovo,IdeaPad,Intel,Core i5,11,16,512,0,Windows,64,64990
+ASUS,VivoBook,Intel,Core i5,11,16,512,0,Windows,64,65990
+HP,Missing,Intel,Core i5,11,8,512,0,Windows,64,55999
+ASUS,VivoBook,Intel,Core i5,11,16,512,0,Windows,64,73490
+HP,Pavilion,Intel,Core i5,11,16,512,0,Windows,64,74490
+HP,Pavilion,Intel,Core i5,11,8,512,0,Windows,64,58340
+Acer,Aspire,Intel,Core i5,11,8,512,0,Windows,64,55999
+DELL,Inspiron,Intel,Core i5,11,16,512,0,Windows,64,67990
+ASUS,VivoBook,Intel,Core i5,11,16,512,0,Windows,64,59990
+ASUS,TUF,Intel,Core i5,11,16,512,0,Windows,64,82990
+DELL,Vostro,Intel,Core i5,11,8,512,0,Windows,64,64190
+DELL,Missing,Intel,Core i5,11,16,512,0,Windows,64,70090
+realme,Book(Slim),Intel,Core i5,11,8,512,0,Windows,64,60999
+ASUS,Missing,Intel,Core i5,10,8,512,0,Windows,64,49990
+MSI,Missing,Intel,Core i5,11,8,512,0,Windows,64,55490
+HP,Spectre,Intel,Core i5,11,8,512,0,Windows,64,97990
+ASUS,VivoBook,Intel,Core i5,9,8,512,0,Windows,64,54990
+Lenovo,Thinkbook,Intel,Core i5,11,8,512,0,Windows,64,59990
+Lenovo,IdeaPad,Intel,Core i5,11,8,512,0,Windows,64,53990
+HP,Pavilion,Intel,Core i5,11,16,512,0,Windows,64,66999
+Acer,Intel,Intel,Core i5,11,8,512,0,Windows,64,60990
+ASUS,Missing,Intel,Core i5,10,8,512,0,Windows,64,47990
+HP,Missing,Intel,Core i5,11,8,512,0,Windows,32,59999
+DELL,G15,Intel,Core i5,10,16,512,0,Windows,64,79990
+ASUS,TUF,Intel,Core i5,10,8,512,0,Windows,64,63990
+HP,Pavilion,Intel,Core i5,11,8,512,0,Windows,64,63990
+ASUS,VivoBook,Intel,Core i5,11,16,512,0,Windows,64,59990
+Lenovo,IdeaPad,Intel,Core i5,11,8,512,0,Windows,64,55990
+ASUS,VivoBook,Intel,Core i5,11,16,512,0,Windows,64,59990
+HP,Pavilion,Intel,Core i5,11,8,512,0,Windows,64,63990
+DELL,Vostro,Intel,Core i5,11,16,512,0,Windows,64,69490
+DELL,Inspiron,Intel,Core i5,11,16,512,0,Windows,64,89390
+ASUS,ZenBook,Intel,Core i5,11,8,512,0,Windows,64,74990
+Lenovo,Thinkbook,Intel,Core i5,11,8,512,0,Windows,64,64990
+Lenovo,Legion,Intel,Core i5,10,8,512,0,Windows,64,66490
+DELL,Inspiron,Intel,Core i5,11,16,512,0,Windows,64,89702
+Lenovo,Ideapad,Intel,Core i5,11,16,512,0,Windows,64,70990
+Infinix,INBook,Intel,Core i5,10,8,512,0,Windows,64,42490
+ASUS,VivoBook,Intel,Core i5,11,16,512,0,Windows,64,58990
+Lenovo,Ideapad,Intel,Core i5,10,8,512,0,Windows,64,57500
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,79990
+MSI,Modern,Intel,Core i5,10,8,512,0,Windows,64,56541
+ASUS,Missing,Intel,Core i5,11,16,512,0,Windows,64,59990
+Lenovo,ThinkBook,Intel,Core i5,11,16,512,0,Windows,64,64990
+DELL,Missing,Intel,Core i5,11,8,512,0,Windows,64,61290
+Lenovo,Missing,Intel,Core i5,11,8,512,0,Windows,64,54990
+Lenovo,ThinkBook,Intel,Core i5,11,8,512,0,Windows,64,59990
+ASUS,ASUS,Intel,Core i5,11,8,512,0,Windows,32,84990
+HP,Pavilion,Intel,Core i5,11,8,512,0,Windows,64,72500
+Lenovo,IdeaPad,Intel,Core i5,11,8,512,0,Windows,64,59990
+Lenovo,Yoga,Intel,Core i5,11,8,512,0,Windows,64,87990
+HP,14s,Intel,Core i5,11,8,512,0,Windows,64,57990
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,69490
+Lenovo,Thinkbook,Intel,Core i5,11,8,512,0,Windows,64,68990
+Lenovo,Missing,Intel,Core i5,11,8,512,0,Windows,32,77990
+ASUS,ZenBook,Intel,Core i5,11,8,512,0,Windows,64,105990
+MSI,Prestige,Intel,Core i5,11,8,512,0,Windows,64,79990
+DELL,Vostro,Intel,Core i5,11,8,512,0,Windows,64,55490
+Lenovo,IdeaPad,Intel,Core i5,11,8,512,0,Windows,64,69990
+ASUS,Zenbook,Intel,Core i5,11,8,512,0,Windows,64,84990
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,59990
+DELL,XPS,Intel,Core i5,10,8,512,0,Windows,64,111890
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,65990
+ASUS,Zenbook,Intel,Core i5,11,8,512,0,Windows,32,72990
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,71090
+MSI,Katana,Intel,Core i5,11,8,512,0,Windows,64,74990
+ASUS,ZenBook,Intel,Core i5,10,8,512,0,Windows,64,79990
+MSI,Modern,Intel,Core i5,11,8,512,0,Windows,64,55490
+DELL,Vostro,Intel,Core i5,11,8,512,0,Windows,64,66490
+ASUS,VivoBook,Intel,Core i5,11,8,512,0,Windows,64,53400
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,74500
+DELL,XPS,Intel,Core i5,11,8,512,0,Windows,64,114990
+DELL,Vostro,Intel,Core i5,11,8,512,0,Windows,64,61990
+APPLE,MacBook,Intel,Core i5,10,8,512,0,Mac,64,159990
+APPLE,MacBook,Intel,Core i5,8,8,512,0,Mac,64,172090
+MSI,Sword,Intel,Core i5,11,8,512,0,Windows,64,74990
+MSI,Modern,Intel,Core i5,10,8,512,0,Windows,64,56490
+Lenovo,ThinkPad,Intel,Core i5,10,8,512,0,Windows,64,147000
+Lenovo,Ideapad,Intel,Core i5,11,8,512,0,Windows,64,55990
+HP,Pavilion,Intel,Core i5,11,8,512,0,Windows,64,77990
+HP,Envy,Intel,Core i5,10,8,512,0,Windows,64,106490
+Lenovo,IdeaPad,Intel,Core i5,11,8,512,0,Windows,32,70990
+Lenovo,ThinkPad,Intel,Core i5,11,8,512,0,Windows,64,64990
+Acer,Aspire,Intel,Core i5,11,8,512,0,Windows,64,57990
+ASUS,TUF,Intel,Core i5,10,8,512,0,Windows,64,64990
+MSI,Modern,Intel,Core i5,10,8,512,0,Windows,64,54990
+Vaio,SE,Intel,Core i5,8,8,512,0,Windows,64,62890
+HP,Spectre,Intel,Core i5,11,8,512,0,Windows,64,111999
+Lenovo,Yoga,Intel,Core i5,10,8,512,0,Windows,64,70798
+Lenovo,Legion,Intel,Core i5,9,8,512,0,Windows,64,59990
+Acer,ConceptD,Intel,Core i5,8,8,512,0,Windows,64,99500
+HP,14s,Intel,Core i5,10,8,512,0,Windows,64,55990
+ASUS,ZenBook,Intel,Core i5,8,8,512,0,Windows,64,72990
+Acer,Swift,Intel,Core i5,8,8,512,0,Windows,64,64990
+ASUS,Missing,Intel,Core i5,11,8,512,0,Windows,64,57990
+HP,HP,Intel,Core i5,11,8,512,0,Windows,64,76990
+Lenovo,Ideapad,Intel,Core i5,11,8,512,0,Windows,64,62998
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,77990
+HP,Spectre,Intel,Core i5,10,8,512,0,Windows,64,114990
+DELL,DELL,Intel,Core i5,10,8,512,0,Windows,64,65990
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,88990
+Lenovo,X390,Intel,Core i5,10,8,512,0,Windows,64,113590
+Mi,Notebook,Intel,Core i5,10,8,512,0,Windows,64,54990
+ASUS,VivoBook,Intel,Core i5,11,8,512,0,Windows,64,73990
+LG,Gram,Intel,Core i5,11,8,512,0,Windows,64,86990
+HP,Missing,Intel,Core i5,11,8,512,0,Windows,64,61000
+ASUS,ZenBook,Intel,Core i5,11,8,512,0,Windows,64,99990
+Lenovo,ThinkPad,Intel,Core i5,11,8,512,0,Windows,64,67990
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,70799
+Lenovo,ThinkPad,Intel,Core i5,11,8,512,0,Windows,64,65990
+ASUS,VivoBook,Intel,Core i5,8,8,512,0,Windows,64,53690
+MSI,Modern,Intel,Core i5,11,8,512,0,Windows,64,55990
+ASUS,VivoBook,Intel,Core i5,11,8,512,0,Windows,64,53190
+Lenovo,IdeaPad,Intel,Core i5,10,8,512,0,Windows,32,58999
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,71990
+HP,Missing,Intel,Core i5,11,8,512,0,Windows,32,82000
+ASUS,ZenBook,Intel,Core i5,11,8,512,0,Windows,64,84990
+Lenovo,Thinpad,Intel,Core i5,11,8,512,0,Windows,64,89998
+ASUS,ZenBook,Intel,Core i5,11,8,512,0,Windows,64,99990
+ASUS,Zenbook,Intel,Core i5,11,8,512,0,Windows,64,84990
+Lenovo,IdeaPad,Intel,Core i5,10,8,512,0,Windows,64,69899
+DELL,Inpiron,Intel,Core i5,10,8,512,0,Windows,64,79990
+DELL,GAMING,Intel,Core i5,10,8,512,0,Windows,64,76300
+Lenovo,Ideapad,Intel,Core i5,10,8,512,0,Windows,64,55999
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,72900
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,73990
+ASUS,ZenBook,Intel,Core i5,11,8,512,0,Windows,64,84990
+DELL,Missing,Intel,Core i5,11,8,512,0,Windows,32,73519
+HP,Spectre,Intel,Core i5,10,8,512,0,Windows,64,126000
+Lenovo,Yoga,Intel,Core i5,10,8,0,512,DOS,32,171998
+ASUS,ASUS,Intel,Core i5,11,8,512,0,Windows,64,88990
+HP,HP,Intel,Core i5,11,8,512,0,Windows,64,114999
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,82990
+Acer,Intel,Intel,Core i5,11,8,512,0,Windows,64,109999
+Lenovo,Yoga,Intel,Core i5,11,8,512,0,Windows,64,82990
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,79990
+ASUS,ZenBook,Intel,Core i5,11,8,512,0,Windows,64,114990
+HP,Spectre,Intel,Core i5,11,8,512,0,Windows,64,129999
+MSI,GS,Intel,Core i5,8,8,512,0,Windows,32,149990
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,71290
+DELL,Inspiron,Intel,Core i5,10,8,512,0,Windows,64,79500
+DELL,Inspiron,Intel,Core i5,10,8,512,0,Windows,64,82990
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,70980
+ASUS,ZenBook,Intel,Core i5,11,8,512,0,Windows,64,99990
+HP,430,Intel,Core i5,11,8,512,0,Windows,32,94000
+DELL,Missing,Intel,Core i5,11,8,512,0,Windows,64,82990
+MSI,Prestige,Intel,Core i5,11,8,512,0,Windows,64,79990
+ASUS,Pro,Intel,Core i5,8,8,512,0,Windows,64,85990
+ASUS,ExpertBook,Intel,Core i5,10,8,512,0,Windows,64,86990
+ASUS,ZenBook,Intel,Core i5,10,8,512,0,Windows,64,105990
+ASUS,ExpertBook,Intel,Core i5,10,8,512,0,Windows,64,84990
+Lenovo,Ideapad,Intel,Core i5,8,8,512,0,Windows,64,59999
+Lenovo,Yoga,Intel,Core i5,11,8,512,0,Windows,64,91999
+DELL,Inspiron,Intel,Core i5,11,8,512,0,Windows,64,78900
+ASUS,ExpertBook,Intel,Core i5,10,8,512,0,Windows,64,132790
+Nokia,PureBook,Intel,Core i5,11,16,512,0,Windows,64,55990
+Lenovo,IdeaPad,Intel,Core i5,11,8,512,0,Windows,64,60990
+Avita,Liber,Intel,Core i5,7,8,512,0,Windows,64,65556
+DELL,Inspiron,Intel,Core i5,11,16,512,0,Windows,64,70190
+DELL,Missing,Intel,Core i5,11,8,512,0,Windows,64,79590
+Avita,Liber,Intel,Core i5,7,8,512,0,Windows,64,65556
+ASUS,TUF,Intel,Core i5,11,8,512,0,Windows,64,76990
+Nokia,PureBook,Intel,Core i5,11,8,512,0,Windows,64,52790
+Avita,Liber,Intel,Core i5,7,8,512,0,Windows,64,65556
+Avita,Liber,Intel,Core i5,8,8,512,0,Windows,64,44990
+ASUS,Intel,Intel,Core i5,11,8,512,0,Windows,64,84990
+Lenovo,Ideapad,Intel,Core i5,10,8,512,0,Windows,64,86999
+HP,Pavilion,Intel,Core i5,11,16,512,0,Windows,64,78000
+Avita,Liber,Intel,Core i5,8,8,512,0,Windows,64,73063
+Avita,Liber,Intel,Core i5,8,8,512,0,Windows,64,73063
+HP,HP,Intel,Core i5,11,16,512,0,Windows,64,100990
+Lenovo,Ideapad,Intel,Core i5,8,8,512,0,Windows,64,74990
+ASUS,ROG,Intel,Core i5,10,8,512,0,Windows,64,75990
+Lenovo,Missing,Intel,Core i5,11,8,512,0,Windows,32,84086
+ASUS,ASUS,Intel,Core i5,11,8,1024,0,Windows,64,75990
+ASUS,TUF,Intel,Core i5,11,8,1024,0,Windows,64,77990
+ASUS,ROG,Intel,Core i5,10,8,1024,0,Windows,64,77990
+APPLE,MacBook,Intel,Core i5,10,16,1024,0,Mac,64,179990
+APPLE,MacBook,Intel,Core i5,10,16,1024,0,Mac,64,179990
+ASUS,ROG,Intel,Core i5,10,8,1024,0,Windows,64,82990
+ASUS,TUF,Intel,Core i5,11,8,1024,0,Windows,64,87990
+ASUS,F17,Intel,Core i5,11,8,1024,0,Windows,64,84500
+DELL,Inspiron,Intel,Core i5,11,8,1024,0,Windows,64,74190
+Lenovo,ThinkBook,Intel,Core i5,11,8,1024,0,Windows,64,64990
+Lenovo,ThinkPad,Intel,Core i5,10,8,512,512,Windows,64,155411
+Lenovo,ThinkPad,Intel,Core i5,10,8,512,512,Windows,64,125394
+Acer,Aspire,Intel,Core i5,11,8,0,1024,Windows,64,49990
+Acer,Aspire,Intel,Core i5,11,8,0,1024,Windows,64,46990
+DELL,Vostro,Intel,Core i5,11,8,0,1024,Windows,64,48990
+Acer,Aspire,Intel,Core i5,8,8,0,1024,Windows,64,59999
+ASUS,VivoBook,Intel,Core i5,10,8,0,1024,Windows,64,46990
+MSI,GF63,Intel,Core i5,10,8,0,1024,Windows,64,52990
+Lenovo,Missing,Intel,Core i5,7,8,0,1024,Windows,32,57999
+Lenovo,B50-70,Intel,Core i5,4,8,0,1024,Windows,64,52490
+Lenovo,Ideapad,Intel,Core i5,8,8,0,1024,Windows,64,56990
+Acer,Aspire,Intel,Core i5,8,8,0,1024,Windows,64,61990
+DELL,Missing,Intel,Core i5,11,8,0,1024,Windows,32,58090
+ASUS,ExpertBook,Intel,Core i5,10,8,0,1024,Windows,64,56990
+Acer,Aspire,Intel,Core i5,8,8,0,1024,Windows,64,61597
+ASUS,Pro,Intel,Core i5,8,8,0,1024,Windows,64,81990
+ASUS,ExpertBook,Intel,Core i5,10,8,0,1024,Windows,64,61249
+DELL,Missing,Intel,Core i5,11,8,0,1024,Windows,32,58990
+ASUS,ExpertBook,Intel,Core i5,10,8,0,1024,Windows,64,83990
+MSI,GE76,Intel,Core i5,10,8,0,512,DOS,32,291190
+MSI,GP65,Intel,Core i5,10,8,0,512,DOS,32,145990
+MSI,GP76,Intel,Core i5,10,8,0,512,DOS,32,179990
+HP,Pavilion,Intel,Core i5,8,8,0,1024,Windows,64,64990
+HP,15q,Intel,Core i5,8,8,0,1024,Windows,64,46790
+HP,Missing,Intel,Core i5,7,4,0,1024,Windows,64,44599
+Acer,Swift,Intel,Core i5,8,8,0,1024,Windows,64,72964
+HP,250,Intel,Core i5,10,8,0,1024,Windows,32,48790
+Acer,Aspire,Intel,Core i5,10,8,0,1024,Windows,64,56491
+ASUS,VivoBook,Intel,Core i5,11,8,256,1024,Windows,32,50990
+ASUS,VivoBook,Intel,Core i5,10,8,256,1024,Windows,64,55990
+Acer,Aspire,Intel,Core i5,11,8,256,1024,Windows,64,57990
+ASUS,VivoBook,Intel,Core i5,11,8,256,1024,Windows,64,52990
+DELL,Inspiron,Intel,Core i5,11,8,256,1024,Windows,64,57990
+Acer,Aspire,Intel,Core i5,11,8,256,1024,Windows,64,56990
+Acer,Travelmate,Intel,Core i5,11,8,256,1024,Windows,64,55490
+DELL,Inspiron,Intel,Core i5,11,8,256,1024,Windows,64,62490
+ASUS,VivoBook,Intel,Core i5,11,16,256,1024,Windows,64,64990
+Lenovo,Ideapad,Intel,Core i5,11,8,256,1024,Windows,64,59990
+ASUS,VivoBook,Intel,Core i5,11,8,256,1024,Windows,64,60190
+ASUS,VivoBook,Intel,Core i5,9,8,256,1024,Windows,64,54490
+Lenovo,Legion,Intel,Core i5,9,8,256,1024,Windows,64,60990
+DELL,Inspiron,Intel,Core i5,11,4,256,1024,Windows,64,55790
+ASUS,VivoBook,Intel,Core i5,11,16,256,1024,Windows,64,64990
+ASUS,Missing,Intel,Core i5,11,16,256,1024,Windows,64,58990
+DELL,Vostro,Intel,Core i5,11,8,256,1024,Windows,64,54990
+HP,Pavilion,Intel,Core i5,11,8,256,1024,Windows,64,71990
+DELL,3511,Intel,Core i5,11,8,256,1024,Windows,64,69900
+Lenovo,Ideapad,Intel,Core i5,11,8,256,1024,Windows,64,65990
+ASUS,VivoBook,Intel,Core i5,11,8,256,1024,Windows,64,49990
+DELL,Vostro,Intel,Core i5,11,8,256,1024,Windows,64,58990
+Lenovo,IdeaPad,Intel,Core i5,10,8,256,1024,Windows,64,74590
+ASUS,Missing,Intel,Core i5,10,8,256,1024,Windows,32,58990
+ASUS,VivoBook,Intel,Core i5,11,8,256,1024,Windows,64,64990
+DELL,Inspiron,Intel,Core i5,11,8,256,1024,Windows,64,66490
+DELL,G3,Intel,Core i5,10,8,256,1024,Windows,64,77900
+DELL,Inspiron,Intel,Core i5,11,8,256,1024,Windows,64,67490
+DELL,Vostro,Intel,Core i5,11,8,256,1024,Windows,64,61990
+DELL,Inspiron,Intel,Core i5,11,8,256,1024,Windows,64,58990
+Lenovo,IdeaPad,Intel,Core i5,10,8,256,1024,Windows,64,74999
+ASUS,VivoBook,Intel,Core i5,11,8,256,1024,Windows,64,68900
+DELL,Inspiron,Intel,Core i5,11,8,256,1024,Windows,64,71695
+Acer,Travelmate,Intel,Core i5,11,16,256,1024,Windows,64,62490
+DELL,Inspiron,Intel,Core i5,8,8,0,2048,Windows,64,62317
+MSI,GS66,Intel,Core i5,10,8,0,512,DOS,32,207290
+DELL,Inspiron,Intel,Core i7,8,16,256,0,Windows,64,87990
+Avita,Liber,Intel,Core i7,8,8,256,0,Windows,64,73990
+Avita,Liber,Intel,Core i7,8,8,256,0,Windows,64,73990
+Avita,Liber,Intel,Core i7,8,8,256,0,Windows,64,73990
+Avita,Liber,Intel,Core i7,8,8,256,0,Windows,64,73990
+Avita,Liber,Intel,Core i7,8,8,256,0,Windows,64,73990
+Avita,Liber,Intel,Core i7,8,8,256,0,Windows,64,73990
+ASUS,VivoBook,Intel,Core i7,10,16,512,0,Windows,64,57990
+ASUS,VivoBook,Intel,Core i7,10,8,512,0,Windows,64,61990
+MSI,GF63,Intel,Core i7,10,16,512,0,Windows,64,79990
+Lenovo,IdeaPad,Intel,Core i7,10,8,512,0,Windows,64,68990
+Mi,Notebook,Intel,Core i7,10,8,512,0,Windows,64,59490
+Lenovo,IdeaPad,Intel,Core i7,11,16,512,0,Windows,64,85990
+Lenovo,Legion,Intel,Core i7,11,16,512,0,Windows,64,99990
+Infinix,X1,Intel,Core i7,10,16,512,0,Windows,64,54990
+ASUS,VivoBook,Intel,Core i7,11,8,512,0,Windows,64,77990
+Lenovo,IdeaPad,Intel,Core i7,11,8,512,0,Windows,64,79990
+HP,Pavilion,Intel,Core i7,11,16,512,0,Windows,64,93190
+ASUS,ZenBook,Intel,Core i7,11,16,512,0,Windows,64,94990
+Lenovo,Thinkbook,Intel,Core i7,11,16,512,0,Windows,64,84990
+MSI,Missing,Intel,Core i7,10,8,512,0,Windows,64,57990
+HP,Envy,Intel,Core i7,11,16,512,0,Windows,64,102990
+DELL,Missing,Intel,Core i7,11,16,512,0,Windows,64,99990
+ASUS,ASUS,Intel,Core i7,11,16,512,0,Windows,64,94990
+HP,Envy,Intel,Core i7,11,16,512,0,Windows,64,104000
+MSI,Missing,Intel,Core i7,11,16,512,0,Windows,64,76990
+HP,Pavilion,Intel,Core i7,11,16,512,0,Windows,64,90190
+Lenovo,Missing,Intel,Core i7,11,16,512,0,Windows,32,88488
+MSI,Prestige,Intel,Core i7,10,16,512,0,Windows,64,109990
+MSI,Sword,Intel,Core i7,11,16,512,0,Windows,64,86990
+MSI,Prestige,Intel,Core i7,11,16,512,0,Windows,64,89990
+HP,Spectre,Intel,Core i7,10,16,512,0,Windows,64,239759
+ASUS,VivoBook,Intel,Core i7,11,16,512,0,Windows,64,78990
+DELL,XPS,Intel,Core i7,8,16,512,0,Windows,64,121890
+ASUS,ZenBook,Intel,Core i7,8,16,512,0,Windows,64,85990
+MSI,Katana,Intel,Core i7,11,16,512,0,Windows,64,94990
+HP,Pavilion,Intel,Core i7,11,16,512,0,Windows,64,92000
+HP,Spectre,Intel,Core i7,10,16,512,0,Windows,64,162990
+DELL,XPS,Intel,Core i7,11,16,512,0,Windows,64,135300
+MSI,Modern,Intel,Core i7,11,16,512,0,Windows,64,64990
+Lenovo,ThinkPad,Intel,Core i7,10,16,512,0,Windows,64,174527
+Lenovo,ThinkPad,Intel,Core i7,10,16,512,0,Windows,64,162299
+DELL,Inspiron,Intel,Core i7,10,16,512,0,Windows,64,109190
+HP,Pavilion,Intel,Core i7,11,16,512,0,Windows,64,99999
+MSI,Prestige,Intel,Core i7,10,16,512,0,Windows,64,104990
+ASUS,Missing,Intel,Core i7,11,16,512,0,Windows,64,109990
+ASUS,ZenBook,Intel,Core i7,8,16,512,0,Windows,64,99990
+Lenovo,Missing,Intel,Core i7,8,16,512,0,Windows,64,244801
+ASUS,ZenBook,Intel,Core i7,11,16,512,0,Windows,64,94990
+Lenovo,Ideapad,Intel,Core i7,8,16,512,0,Windows,64,86000
+Lenovo,Missing,Intel,Core i7,10,16,512,0,Windows,32,162399
+HP,Missing,Intel,Core i7,11,16,512,0,Windows,32,119599
+Lenovo,Missing,Intel,Core i7,10,16,512,0,Windows,64,211753
+Lenovo,Intel,Intel,Core i7,11,16,512,0,Windows,32,110999
+DELL,Missing,Intel,Core i7,11,16,512,0,Windows,64,99990
+ASUS,ZenBook,Intel,Core i7,8,8,512,0,Windows,64,81990
+MSI,GF63,Intel,Core i7,9,8,512,0,Windows,64,66990
+MSI,GF65,Intel,Core i7,10,16,1024,0,Windows,64,84990
+ASUS,Zenbook,Intel,Core i7,11,16,1024,0,Windows,64,104990
+ASUS,ZenBook,Intel,Core i7,11,16,1024,0,Windows,64,134990
+ASUS,ASUS,Intel,Core i7,11,16,1024,0,Windows,64,98990
+HP,Envy,Intel,Core i7,10,16,1024,0,Windows,64,144690
+ASUS,ZenBook,Intel,Core i7,11,16,1024,0,Windows,64,99990
+MSI,Stealth,Intel,Core i7,11,16,1024,0,Windows,64,119990
+ASUS,Zephyrus,Intel,Core i7,11,16,1024,0,Windows,32,194990
+ASUS,ZenBook,Intel,Core i7,10,16,1024,0,Windows,64,124990
+DELL,Inspiron,Intel,Core i7,11,16,1024,0,Windows,64,122410
+HP,Spectre,Intel,Core i7,10,16,1024,0,Windows,64,179990
+MSI,Summit,Intel,Core i7,11,16,1024,0,Windows,64,154990
+Lenovo,Yoga,Intel,Core i7,11,16,1024,0,Windows,64,122990
+ASUS,Missing,Intel,Core i7,10,16,1024,0,Windows,64,224990
+MSI,Stealth,Intel,Core i7,12,16,1024,0,Windows,64,279990
+HP,OMEN,Intel,Core i7,11,16,1024,0,Windows,64,121990
+HP,OMEN,Intel,Core i7,11,16,1024,0,Windows,64,116990
+Lenovo,Legion,Intel,Core i7,11,16,1024,0,Windows,64,151098
+MSI,Pulse,Intel,Core i7,11,16,1024,0,Windows,64,129990
+HP,Spectre,Intel,Core i7,11,16,1024,0,Windows,64,149999
+MSI,Missing,Intel,Core i7,12,16,1024,0,Windows,64,139990
+Acer,Predator,Intel,Core i7,11,16,1024,0,Windows,64,129990
+HP,OMEN,Intel,Core i7,11,16,1024,0,Windows,64,171990
+DELL,Inspiron,Intel,Core i7,11,16,1024,0,Windows,64,93955
+ASUS,ROG,Intel,Core i7,10,16,1024,0,Windows,64,234990
+HP,Spectre,Intel,Core i7,11,16,1024,0,Windows,64,128500
+Lenovo,Yoga,Intel,Core i7,11,16,1024,0,Windows,64,102990
+ASUS,ZenBook,Intel,Core i7,11,16,1024,0,Windows,64,119990
+ASUS,Missing,Intel,Core i7,11,16,1024,0,Windows,32,120980
+ASUS,Zephyrus,Intel,Core i7,11,16,1024,0,Windows,32,157249
+Lenovo,Missing,Intel,Core i7,9,16,1024,0,Windows,64,229900
+ASUS,ASUS,Intel,Core i7,11,16,1024,0,Windows,64,131500
+ASUS,ExpertBook,Intel,Core i7,10,16,1024,0,Windows,64,154990
+ASUS,ExpertBook,Intel,Core i7,10,16,1024,0,Windows,64,165990
+Lenovo,Yoga,Intel,Core i7,10,16,1024,0,Windows,64,119990
+ASUS,ExpertBook,Intel,Core i7,10,16,1024,0,Windows,64,167990
+HP,Spectre,Intel,Core i7,11,16,1024,0,Windows,64,165000
+Avita,Liber,Intel,Core i7,10,16,1024,0,Windows,64,62990
+Lenovo,ThinkBook,Intel,Core i7,11,16,1024,0,Windows,64,85990
+HP,HP,Intel,Core i7,11,16,1024,0,Windows,64,94990
+HP,Omen,Intel,Core i7,11,16,1024,0,Windows,64,136990
+Lenovo,Legion,Intel,Core i7,10,16,1024,0,Windows,64,234990
+Acer,Predator,Intel,Core i7,10,16,2048,0,Windows,64,159990
+ASUS,ExpertBook,Intel,Core i7,10,16,2048,0,Windows,64,233990
+ASUS,ExpertBook,Intel,Core i7,10,16,0,1024,Windows,64,93990
+HP,15,Intel,Core i7,8,16,128,1024,Windows,64,116941
+MSI,GF63,Intel,Core i7,10,8,256,1024,Windows,64,63990
+ASUS,VivoBook,Intel,Core i7,10,16,256,1024,Windows,64,66990
+ASUS,Missing,Intel,Core i7,11,16,256,1024,Windows,32,82500
+Acer,Predator,Intel,Core i7,10,16,256,1024,Windows,64,119990
+MSI,WF65,Intel,Core i7,10,16,256,1024,Windows,64,159990
+ASUS,Pro,Intel,Core i7,8,16,256,1024,Windows,64,98912
+Acer,Predator,Intel,Core i7,11,16,512,1024,Windows,64,92990
+Acer,Predator,Intel,Core i7,11,16,512,1024,Windows,32,119990
+Acer,Predator,Intel,Core i9,11,32,1024,0,Windows,64,169990
+Acer,Predator,Intel,Core i9,11,16,1024,0,Windows,64,139990
+MSI,Creator,Intel,Core i9,11,16,1024,0,Windows,64,192990
+ASUS,ROG,Intel,Core i9,12,16,1024,0,Windows,64,299990
+ASUS,Missing,Intel,Core i9,10,16,1024,0,Windows,64,269990
+ASUS,ASUS,Intel,Core i9,11,16,1024,0,Windows,64,139990
+Lenovo,Missing,Intel,Core i9,10,16,1024,0,Windows,32,265998
+ASUS,Zephyrus,Intel,Core i9,11,16,3072,0,Windows,32,441990
+Smartron,t.book,Intel,Core m3,7,4,128,0,Windows,64,42990
+MSI,Katana,Intel,Core i5,10,8,0,512,DOS,32,86990
+MSI,Pulse,Intel,Core i5,10,8,0,512,DOS,32,109990
+MSI,Pulse,Intel,Core i5,10,8,0,512,DOS,32,109590
+ASUS,ROG,Intel,Core i7,10,16,0,512,DOS,32,146490
+HP,Chromebook,Intel,Dual Core,10,4,0,512,DOS,32,61745
+ASUS,ZenBook,Intel,Ever Screenpad,10,4,0,512,DOS,64,209690
+ASUS,ZenBook,Intel,Ever Screenpad,10,4,0,512,DOS,64,175190
+ALIENWARE,Missing,Intel,GeForce GTX,10,8,0,512,DOS,32,199990
+DELL,G15,Intel,GeForce GTX,10,8,0,512,DOS,32,75500
+ALIENWARE,Missing,Intel,GeForce RTX,10,8,0,512,DOS,32,345390
+ALIENWARE,Missing,Intel,GeForce RTX,10,8,0,512,DOS,32,214790
+ALIENWARE,Missing,Intel,GeForce RTX,10,8,0,512,DOS,32,269290
+DELL,G15,Intel,GEFORCE RTX,10,4,0,512,DOS,32,95990
+APPLE,MacBook,M1,M1,10,16,256,0,Mac,64,104990
+APPLE,MacBook,M1,M1,10,8,256,0,Mac,64,112990
+APPLE,MacBook,M1,M1,10,16,256,0,Mac,64,132990
+APPLE,MacBook,M1,M1,10,16,256,0,Mac,64,104990
+APPLE,MacBook,M1,M1,10,8,256,0,Mac,64,85990
+APPLE,MacBook,M1,M1,10,16,512,0,Mac,64,149990
+APPLE,MacBook,M1,M1,10,8,512,0,Mac,64,125990
+APPLE,MacBook,M1,M1,10,8,512,0,Mac,64,103990
+APPLE,MacBook,M1,M1,10,8,512,0,Mac,64,101990
+APPLE,MacBook,M1,M1,10,8,512,0,Mac,64,104990
+APPLE,MacBook,M1,M1,10,8,512,0,Mac,64,131990
+APPLE,MacBook,M1,M1,10,16,512,0,Mac,64,128990
+APPLE,MacBook,M1,M1,10,16,512,0,Mac,64,184990
+APPLE,MacBook,M1,M1,10,16,512,0,Mac,64,225990
+APPLE,MacBook,M1,M1,10,4,512,0,Mac,64,124990
+APPLE,MacBook,M1,M1,10,8,512,0,Mac,64,104990
+APPLE,MacBook,M1,M1,10,8,1024,0,Mac,64,149990
+APPLE,MacBook,M1,M1,10,16,1024,0,Mac,64,169990
+APPLE,MacBook,M1,M1,10,16,1024,0,Mac,64,225990
+APPLE,MacBook,M1,M1,10,16,1024,0,Mac,64,243990
+APPLE,MacBook,M1,M1,10,32,1024,0,Mac,64,309990
+APPLE,MacBook,M1,M1,10,16,1024,0,Mac,64,225990
+DELL,G7,Intel,GeForce RTX,10,8,0,512,DOS,32,179990
+Acer,Missing,Intel,Genuine Windows,10,4,128,0,DOS,32,116640
+Acer,Predator,Intel,Genuine Windows,10,4,0,512,DOS,32,129999
+Lenovo,Legion,Intel,Genuine Windows,10,4,0,512,DOS,32,77890
+HP,Chromebook,MediaTek,MediaTek Kompanio,10,4,0,512,DOS,32,22990
+HP,Chromebook,MediaTek,MediaTek Kompanio,10,4,0,512,DOS,32,22490
+HP,Chromebook,MediaTek,MediaTek Kompanio,10,4,0,512,DOS,32,22990
+ASUS,APU,AMD,Quad,10,4,0,512,DOS,32,19990
+Lenovo,Thinkpad,AMD,Ryzen 5,10,8,512,0,DOS,64,57490

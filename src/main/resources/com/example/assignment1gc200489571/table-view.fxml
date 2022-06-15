@@ -8,8 +8,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.VBox?>
 
-
-<AnchorPane prefHeight="400.0" prefWidth="600.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.assignment1gc200489571.TableViewController">
+<AnchorPane prefHeight="500.0" prefWidth="800.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.assignment1gc200489571.TableViewController">
    <children>
       <VBox alignment="CENTER" prefHeight="400.0" prefWidth="600.0" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <padding>
@@ -21,7 +20,7 @@
                   <Insets bottom="15.0" />
                </VBox.margin>
             </Label>
-            <TableView fx:id="tableView" prefHeight="232.0" prefWidth="580.0">
+            <TableView fx:id="tableView" prefHeight="348.0" prefWidth="780.0">
               <columns>
                 <TableColumn fx:id="brandColumn" prefWidth="75.0" text="Brand" />
                 <TableColumn fx:id="modelColumn" prefWidth="75.0" text="Model" />
@@ -32,6 +31,9 @@
                <columnResizePolicy>
                   <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
                </columnResizePolicy>
+               <VBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </VBox.margin>
             </TableView>
             <Button fx:id="button" mnemonicParsing="false" onAction="#chartView" text="Chart View">
                <VBox.margin>

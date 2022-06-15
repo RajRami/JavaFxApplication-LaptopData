@@ -50,6 +50,11 @@ public class TableViewController implements Initializable {
         tableView.getItems().addAll(DBUtility.getLaptopsFromDB());
     }
 
+    /**
+     *This is to change the scene by clicking on button
+     * @param event
+     * @throws IOException
+     */
     @FXML
     private void chartView(ActionEvent event) throws IOException {
         SceneChanger.changeScenes(event,"chart-view.fxml");
