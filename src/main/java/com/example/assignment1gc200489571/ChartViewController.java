@@ -32,8 +32,8 @@ public class ChartViewController implements Initializable {
         // To set custom range and midpoints
         yAxis.setAutoRanging(false);
         yAxis.setLowerBound(0);
-        yAxis.setUpperBound(100000);
-        yAxis.setTickUnit(5000);
+        yAxis.setUpperBound(170000);
+        yAxis.setTickUnit(10000);
     }
 
     /**
