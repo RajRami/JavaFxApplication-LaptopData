@@ -58,8 +58,10 @@ public class DBUtility {
         XYChart.Series<String, Double> series = new XYChart.Series<>();
         series.setName("Brands");
 
-        String sql = "SELECT brand, price FROM LaptopData " +
-                "WHERE brand IN ('HP','Lenovo','Acer','ASUS','DELL','LG') " +
+        String sql = "SELECT DISTINCT brand, AVG(Price) AS price " +
+                "FROM LaptopData " +
+                "WHERE brand IN ('hp','lenovo','dell','acer','asus','lg') " +
+                "GROUP BY brand " +
                 "ORDER BY brand;";
 
         try(
