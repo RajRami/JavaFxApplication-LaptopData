@@ -90,7 +90,7 @@ public class Laptop {
     public String getPriceString()
     {
         Locale country = new Locale("en","IN");
-        Currency dollars = Currency.getInstance(country);
+        Currency rupees = Currency.getInstance(country);
         return NumberFormat.getCurrencyInstance(country).format(price);
     }
 

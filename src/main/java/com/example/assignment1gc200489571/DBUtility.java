@@ -77,7 +77,6 @@ public class DBUtility {
         } catch (SQLException e) {
             e.printStackTrace();
         }
-
         return series;
     }
 }
